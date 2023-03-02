@@ -1,0 +1,9 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "SignatoryGroupManageManager/BusinessControllers/BusinessController",
+        "BusinessExtensions": []
+    },
+    "Forms": {},
+    "ModuleName": "SignatoryGroupManageManager",
+    "ModuleType": "Manager"
+}

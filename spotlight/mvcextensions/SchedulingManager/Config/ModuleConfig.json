@@ -1,0 +1,14 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "SchedulingManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "SchedulingManager",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "SchedulingManager/PresentationControllers/PresentationController",
+            "PresentationExtensions": []
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "TermsAndConditionsManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "TermsAndConditionsManager"
+}

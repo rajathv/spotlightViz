@@ -1,0 +1,8 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "MasterDataManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "MasterDataManager"
+}

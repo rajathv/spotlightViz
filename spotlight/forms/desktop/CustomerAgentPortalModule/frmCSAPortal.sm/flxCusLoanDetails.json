@@ -1,0 +1,78 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s8ff24328417401b877c3ceb2a5fa27c",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "CopylblHeaderCus0g89398c822d645",
+        "CopyflxAdSeparator0e180d16f2a1241",
+        "CopyflxPhoneCus0a21bdb93970643",
+        "CopyLabel0ab860f22212745",
+        "CopyflxCusGender0eb283b3ea53449",
+        "CopyLabel0ad94a4707e1d41",
+        "CopyflxCusDOB0ac36a988bfc84b",
+        "CopyLabel0e8b8a19ab28c49",
+        "CopyflxIbanNumber0a10743cbf38143",
+        "CopyLabel0g89041ae0f6f46",
+        "flxEmployerdetails",
+        "CopyLabel0gacb7d2090fa46",
+        "flxAgencyName",
+        "CopyLabel0a7a564f00a9041",
+        "flxSalaryAmount",
+        "CopyLabel0j581eeedd7b745",
+        "flxEmpStartDate",
+        "CopyLabel0h8e74506707441",
+        "CopyflxIBanFile0g3227afc6f1f4b",
+        "CopyLabel0f592dcc65e9641"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxCusLoanDetails",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bbfb49a7d2d542c093369a2c784a6619",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxCusDetBasic",
+    "pf": "frmCSAPortal",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

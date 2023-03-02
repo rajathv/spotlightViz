@@ -1,0 +1,47 @@
+{
+    "classname": "deviceAuthenticator",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "fbefa3ebcd2d4c7e8bbb0c53c11d98ca",
+                    "paramList": [
+                        {
+                            "name": "context"
+                        }
+                    ],
+                    "propertyIndex": 1,
+                    "propertyKey": "formUpdateUI",
+                    "pw": {
+                        "displayName": "formUpdateUI",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "be19ea6b07544bce9f879ec0b69deecc",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.adminConsole.DeviceManagement",
+    "version": "1.0.0"
+}

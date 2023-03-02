@@ -1,0 +1,23 @@
+{
+    "AS_Form_i6ee64dccb2b4abe965f9395f54e0ea9": {
+        "id": "AS_Form_i6ee64dccb2b4abe965f9395f54e0ea9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCSAPortal",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d6191411085846fa9cf6ac01aa4eb729"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_j97daf738bfb47a09e092f7ca297f7d2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onPreShowCall();",
+            "parentId": null
+        }]
+    }
+}

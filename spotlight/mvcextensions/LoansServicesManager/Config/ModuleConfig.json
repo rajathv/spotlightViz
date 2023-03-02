@@ -1,0 +1,14 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "LoansServicesManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "LoansServicesManager",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "LoansServicesManager/PresentationControllers/PresentationController",
+            "PresentationExtensions": []
+        }
+    }
+}

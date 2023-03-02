@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "22px"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20px"
+    },
+    "_skin_": "s918f47f786b4145a0ce71b925c7b10d",
+    "_text_": "Suspend Features",
+    "_top_": {
+        "type": "string",
+        "value": "80px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "120px"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s2298852c1d6475da8f5c3a9c70d0f64"
+        }
+    },
+    "disabledSkins": {
+        "focusSkin": "s152a8ebff2840e2b2942e5ec1abbdb5"
+    },
+    "displaytext": true,
+    "id": "btnShowSuspendFeatureInEdit",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b04d55b95a814d578e7f0381cc68e772",
+    "name": "kony.ui.Button",
+    "parent": "flxFeatureOperations",
+    "pf": "frmCompanies",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,8 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "ReportsManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "ReportsManager"
+}

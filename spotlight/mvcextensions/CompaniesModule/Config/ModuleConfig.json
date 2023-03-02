@@ -1,0 +1,73 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "CompaniesModule/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {
+        "desktop": {
+            "frmBusinessTypes": {
+                "Controller": "CompaniesModule/frmBusinessTypesController",
+                "ControllerExtensions": [
+                    "Navigation_Form_Extn",
+                    "TabUtil_FormExtn",
+                    "DateTimeUtils_FormExtn",
+                    "CurrencyUtils_FormExtn",
+                    "Sorting_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "downloadCSV_Extn",
+                    "ErrorInterceptor",
+                    "WidgetPermission_Checker_FormExtns"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "CompaniesModule/frmBusinessTypes",
+                "friendlyName": "frmBusinessTypes"
+            },
+            "frmCompanies": {
+                "Controller": "CompaniesModule/frmCompaniesController",
+                "ControllerExtensions": [
+                    "Navigation_Form_Extn",
+                    "TabUtil_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "DateTimeUtils_FormExtn",
+                    "CurrencyUtils_FormExtn",
+                    "Sorting_FormExtn",
+                    "CustomerManagement_Search_Extn",
+                    "AdminConsoleCommonUtilities",
+                    "downloadCSV_Extn",
+                    "ErrorInterceptor",
+                    "googleApiKeys",
+                    "WidgetPermission_Checker_FormExtns"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "CompaniesModule/frmCompanies",
+                "friendlyName": "frmCompanies"
+            },
+            "frmEnrollmentRequests": {
+                "Controller": "CompaniesModule/frmEnrollmentRequestsController",
+                "ControllerExtensions": [
+                    "Navigation_Form_Extn",
+                    "AdminConsoleCommonUtilities",
+                    "DateTimeUtils_FormExtn",
+                    "CurrencyUtils_FormExtn",
+                    "Sorting_FormExtn",
+                    "ErrorInterceptor",
+                    "WidgetPermission_Checker_FormExtns"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "CompaniesModule/frmEnrollmentRequests",
+                "friendlyName": "frmEnrollmentRequests"
+            }
+        }
+    },
+    "ModuleName": "CompaniesModule",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "CompaniesModule/PresentationControllers/PresentationController",
+            "PresentationExtensions": [
+                "Navigation_Presentation_Extn",
+                "WidgetPermission_Checker_FormExtns",
+                "Sorting_FormExtn"
+            ]
+        }
+    }
+}

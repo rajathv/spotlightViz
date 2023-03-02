@@ -1,0 +1,773 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "fontIconStatusImg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDailyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Daily Transaction Limit"
+            },
+            "lblDailyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblDailyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblFeature": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer to account in other FIs"
+            },
+            "lblPerTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Per Transaction Limit"
+            },
+            "lblPerTransactionLimitErronIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPerTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblUsersStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            },
+            "lblWeeklyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weekly Transaction Limit"
+            },
+            "lblWeeklyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblWeeklyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "tbxDailyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxPerTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxWeeklyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "fontIconStatusImg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDailyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Daily Transaction Limit"
+            },
+            "lblDailyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblDailyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblFeature": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer to account in other FIs"
+            },
+            "lblPerTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Per Transaction Limit"
+            },
+            "lblPerTransactionLimitErronIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPerTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblUsersStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            },
+            "lblWeeklyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weekly Transaction Limit"
+            },
+            "lblWeeklyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblWeeklyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "tbxDailyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxPerTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxWeeklyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "fontIconStatusImg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDailyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Daily Transaction Limit"
+            },
+            "lblDailyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblDailyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblFeature": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer to account in other FIs"
+            },
+            "lblPerTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Per Transaction Limit"
+            },
+            "lblPerTransactionLimitErronIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPerTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblUsersStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            },
+            "lblWeeklyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weekly Transaction Limit"
+            },
+            "lblWeeklyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblWeeklyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "tbxDailyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxPerTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxWeeklyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "fontIconStatusImg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDailyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Daily Transaction Limit"
+            },
+            "lblDailyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblDailyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblFeature": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer to account in other FIs"
+            },
+            "lblPerTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Per Transaction Limit"
+            },
+            "lblPerTransactionLimitErronIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPerTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblUsersStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            },
+            "lblWeeklyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weekly Transaction Limit"
+            },
+            "lblWeeklyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblWeeklyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "tbxDailyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxPerTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxWeeklyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "fontIconStatusImg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDailyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Daily Transaction Limit"
+            },
+            "lblDailyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblDailyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblFeature": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer to account in other FIs"
+            },
+            "lblPerTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Per Transaction Limit"
+            },
+            "lblPerTransactionLimitErronIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPerTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblUsersStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            },
+            "lblWeeklyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weekly Transaction Limit"
+            },
+            "lblWeeklyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblWeeklyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "tbxDailyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxPerTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxWeeklyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "fontIconStatusImg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDailyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Daily Transaction Limit"
+            },
+            "lblDailyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblDailyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblFeature": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer to account in other FIs"
+            },
+            "lblPerTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Per Transaction Limit"
+            },
+            "lblPerTransactionLimitErronIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPerTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblUsersStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            },
+            "lblWeeklyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weekly Transaction Limit"
+            },
+            "lblWeeklyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblWeeklyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "tbxDailyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxPerTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxWeeklyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "fontIconStatusImg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDailyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Daily Transaction Limit"
+            },
+            "lblDailyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblDailyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblFeature": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer to account in other FIs"
+            },
+            "lblPerTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Per Transaction Limit"
+            },
+            "lblPerTransactionLimitErronIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPerTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblUsersStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            },
+            "lblWeeklyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weekly Transaction Limit"
+            },
+            "lblWeeklyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblWeeklyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "tbxDailyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxPerTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxWeeklyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "fontIconStatusImg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDailyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Daily Transaction Limit"
+            },
+            "lblDailyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblDailyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblFeature": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer to account in other FIs"
+            },
+            "lblPerTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Per Transaction Limit"
+            },
+            "lblPerTransactionLimitErronIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPerTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblUsersStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            },
+            "lblWeeklyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weekly Transaction Limit"
+            },
+            "lblWeeklyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblWeeklyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "tbxDailyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxPerTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxWeeklyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "fontIconStatusImg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDailyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Daily Transaction Limit"
+            },
+            "lblDailyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblDailyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblFeature": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer to account in other FIs"
+            },
+            "lblPerTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Per Transaction Limit"
+            },
+            "lblPerTransactionLimitErronIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPerTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblUsersStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            },
+            "lblWeeklyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weekly Transaction Limit"
+            },
+            "lblWeeklyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblWeeklyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "tbxDailyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxPerTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxWeeklyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "fontIconStatusImg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDailyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Daily Transaction Limit"
+            },
+            "lblDailyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblDailyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblFeature": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer to account in other FIs"
+            },
+            "lblPerTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Per Transaction Limit"
+            },
+            "lblPerTransactionLimitErronIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPerTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblUsersStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            },
+            "lblWeeklyTransactionLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weekly Transaction Limit"
+            },
+            "lblWeeklyTransactionLimitError": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "i18n.frmAlertsManagement.lblNoEditAlertMainNameError",
+                "text": ""
+            },
+            "lblWeeklyTransactionLimitErrorIcon": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "tbxDailyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxPerTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            },
+            "tbxWeeklyTransactionLimitValue": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segAssignLimits",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b3e33e3b1a174a3183333af3a32ca361",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxLimitsContainer",
+    "pf": "frmCompanies",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "fe2a4ec3576a435caeed5e41f6ccf578",
+    "rowcounter": 9,
+    "rowfocusskin": "se901dcdd2ae4a58a81f21c009edf99e",
+    "rowskin": "s54014e0d4204ce9acd27107655ded87",
+    "rowtemplate": "flLimitsCompanies",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sffa0c1a0560403189088e98f7b4f498",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff00",
+    "separatorrequired": true,
+    "separatorthickness": 10,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flLimitsCompanies": "flLimitsCompanies",
+        "flxDailyTransactionLimit": "flxDailyTransactionLimit",
+        "flxDailyTransactionLimitError": "flxDailyTransactionLimitError",
+        "flxLimitHeader": "flxLimitHeader",
+        "flxLimitLower": "flxLimitLower",
+        "flxPerTransactionLimit": "flxPerTransactionLimit",
+        "flxPerTransactionLimitError": "flxPerTransactionLimitError",
+        "flxStatus": "flxStatus",
+        "flxWeeklyTransactionLimit": "flxWeeklyTransactionLimit",
+        "flxWeeklyTransactionLimitError": "flxWeeklyTransactionLimitError",
+        "fontIconStatusImg": "fontIconStatusImg",
+        "lblDailyTransactionLimit": "lblDailyTransactionLimit",
+        "lblDailyTransactionLimitError": "lblDailyTransactionLimitError",
+        "lblDailyTransactionLimitErrorIcon": "lblDailyTransactionLimitErrorIcon",
+        "lblFeature": "lblFeature",
+        "lblPerTransactionLimit": "lblPerTransactionLimit",
+        "lblPerTransactionLimitErronIcon": "lblPerTransactionLimitErronIcon",
+        "lblPerTransactionLimitError": "lblPerTransactionLimitError",
+        "lblUsersStatus": "lblUsersStatus",
+        "lblWeeklyTransactionLimit": "lblWeeklyTransactionLimit",
+        "lblWeeklyTransactionLimitError": "lblWeeklyTransactionLimitError",
+        "lblWeeklyTransactionLimitErrorIcon": "lblWeeklyTransactionLimitErrorIcon",
+        "tbxDailyTransactionLimitValue": "tbxDailyTransactionLimitValue",
+        "tbxPerTransactionLimitValue": "tbxPerTransactionLimitValue",
+        "tbxWeeklyTransactionLimitValue": "tbxWeeklyTransactionLimitValue"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,219 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "60px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sf9bacbfaa444379a0002b31e0f5aa80",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": ""
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "flxClearSearchImage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ce970ac3178c419389a3863d00253bb5",
+                "srcKUID": "3e0d75740d0b4d89b4d378170cf45654",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxDownload": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fd92b8c6b87d4cd28627c7fb4d0ad6a2",
+                "srcKUID": "a10aafdd1f2f4479a2d8ce0ba55d2621",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxEndDate": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "de1eaa6403f14df6bd96496aca844de9",
+                "srcKUID": "g427b8f5387a434b956931e882bedc93",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxListboxAndCalendar": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ec91b0eb988e474db0bbba51179f9753",
+                "srcKUID": "7766d04352924c3f97a5d9c12d3620ae",
+                "wType": "FlexContainer"
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "50%"
+                }
+            }
+        },
+        "flxSearchAndDownload": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f1618dfdaabc42a69e5cee558f2ce331",
+                "srcKUID": "e123a2b807cd4ba0a68539874293d24e",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "0px"
+                }
+            }
+        },
+        "flxSearchContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j524a09892af4317b86c8e4a1ced9029",
+                "srcKUID": "3d72aa8a2a324b35b7fde16436f28ece",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxStartDate": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h150d098c28f4132b63dc2c64da1979a",
+                "srcKUID": "fea0b4998d704eda807746828d7ecbde",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgClearSearch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ade5e037720b4a31b7032200f3efbd38",
+                "srcKUID": "f118fb5e844e43a0ae28793f94a3c8c3",
+                "wType": "Image"
+            },
+            "src": "close_blue.png"
+        },
+        "imgDownload": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f9266985f0524dbc9bf69a4543fb565c",
+                "srcKUID": "baca9f2abfdc409f8c139b197c12141a",
+                "wType": "Image"
+            },
+            "src": "download_2x.png"
+        },
+        "imgSearchIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "efce7d571c70455baa3e02c1a0d505b1",
+                "srcKUID": "64298e4a72f2403086265145b89397c5",
+                "wType": "Image"
+            },
+            "src": "search_1x.png"
+        },
+        "lblShowing": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c99e5264e7554897a58043573c6275c2",
+                "srcKUID": "ee685d7af0d1411ca7432511a83bcc31",
+                "wType": "Label"
+            },
+            "isVisible": false
+        },
+        "lbxPageNumbers": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "af8618e487ef46a99576c529edcfc6fb",
+                "srcKUID": "8e2337c547744c9baebf063899e6c0de",
+                "wType": "ListBox"
+            },
+            "isVisible": false
+        },
+        "search": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "j1dfd56a48dc4e0bba7448d32773352b",
+                "srcKUID": "2089e343535242c7b9a5b1b4fa120e3d",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            }
+        },
+        "tbxSearchBox": {
+            "__events__": {
+                "ide_onTouchStart": "AS_TextField_gf9a2570adc34581b930bf1d5169b593"
+            },
+            "__info__": {
+                "kuid": "h8ed1c41bb1e4fb1860621070e45edc6",
+                "srcKUID": "75461a4541854e27899b491a23d6f134",
+                "wType": "TextField"
+            }
+        }
+    },
+    "id": "transactionHistorySearch",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "j1dfd56a48dc4e0bba7448d32773352b",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxTransactionHistorySearch",
+    "pf": "frmCompanies",
+    "snaptogrid": true,
+    "sourceUserWidget": "2089e343535242c7b9a5b1b4fa120e3d",
+    "vizprops": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance"
+}

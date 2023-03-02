@@ -1,0 +1,14 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "BusinessBankingManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "BusinessBankingManager",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "BusinessBankingManager/PresentationControllers/PresentationController",
+            "PresentationExtensions": []
+        }
+    }
+}

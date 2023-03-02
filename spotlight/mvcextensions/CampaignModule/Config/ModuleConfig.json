@@ -1,0 +1,47 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "CampaignModule/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {
+        "desktop": {
+            "frmAdDetails": {
+                "Controller": "CampaignModule/frmAdDetailsController",
+                "ControllerExtensions": [
+                    "Sorting_FormExtn",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "DateTimeUtils_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "TabUtil_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "CampaignModule/frmAdDetails",
+                "friendlyName": "frmAdDetails"
+            },
+            "frmAdManagement": {
+                "Controller": "CampaignModule/frmAdManagementController",
+                "ControllerExtensions": [
+                    "Sorting_FormExtn",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "DateTimeUtils_FormExtn",
+                    "TabUtil_FormExtn",
+                    "AdminConsoleCommonUtilities"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "CampaignModule/frmAdManagement",
+                "friendlyName": "frmAdManagement"
+            }
+        }
+    },
+    "ModuleName": "CampaignModule",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "CampaignModule/PresentationControllers/PresentationController",
+            "PresentationExtensions": [
+                "Navigation_Presentation_Extn"
+            ]
+        }
+    }
+}

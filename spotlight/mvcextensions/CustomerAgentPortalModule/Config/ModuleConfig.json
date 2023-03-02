@@ -1,0 +1,122 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "CustomerAgentPortalModule/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {
+        "desktop": {
+            "frmCSAPortal": {
+                "Controller": "CustomerAgentPortalModule/frmCSAPortalController",
+                "ControllerExtensions": [
+                    "Pagination_FormExtn",
+                    "Sorting_FormExtn",
+                    "downloadCSV_Extn",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "TabUtil_FormExtn",
+                    "DateTimeUtils_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "CurrencyUtils_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "CustomerAgentPortalModule/frmCSAPortal",
+                "friendlyName": "frmCSAPortal"
+            },
+            "frmCounterSign": {
+                "Controller": "CustomerAgentPortalModule/frmCounterSignController",
+                "ControllerExtensions": [
+                    "Pagination_FormExtn",
+                    "Sorting_FormExtn",
+                    "downloadCSV_Extn",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "TabUtil_FormExtn",
+                    "DateTimeUtils_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "CurrencyUtils_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "CustomerAgentPortalModule/frmCounterSign",
+                "friendlyName": "frmCounterSign"
+            },
+            "frmCustomerDetail": {
+                "Controller": "CustomerAgentPortalModule/frmCustomerDetailController",
+                "ControllerExtensions": [
+                    "Pagination_FormExtn",
+                    "Sorting_FormExtn",
+                    "downloadCSV_Extn",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "TabUtil_FormExtn",
+                    "DateTimeUtils_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "CurrencyUtils_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "CustomerAgentPortalModule/frmCustomerDetail",
+                "friendlyName": "frmCustomerDetail"
+            },
+            "frmCreateRetailer": {
+                "ControllerExtensions": [
+                    "Pagination_FormExtn",
+                    "Sorting_FormExtn",
+                    "downloadCSV_Extn",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "TabUtil_FormExtn",
+                    "DateTimeUtils_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "CurrencyUtils_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "CustomerAgentPortalModule/frmCreateRetailerController",
+                "FormName": "CustomerAgentPortalModule/frmCreateRetailer",
+                "friendlyName": "frmCreateRetailer"
+            },
+            "frmResetUser": {
+                "ControllerExtensions": [
+                    "Pagination_FormExtn",
+                    "Sorting_FormExtn",
+                    "downloadCSV_Extn",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "TabUtil_FormExtn",
+                    "DateTimeUtils_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "CurrencyUtils_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "CustomerAgentPortalModule/frmResetUserController",
+                "FormName": "CustomerAgentPortalModule/frmResetUser",
+                "friendlyName": "frmResetUser"
+            },
+            "frmModifyUser": {
+                 "ControllerExtensions": [
+                    "Pagination_FormExtn",
+                    "Sorting_FormExtn",
+                    "downloadCSV_Extn",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "TabUtil_FormExtn",
+                    "DateTimeUtils_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "CurrencyUtils_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "CustomerAgentPortalModule/frmModifyUserController",
+                "FormName": "CustomerAgentPortalModule/frmModifyUser",
+                "friendlyName": "frmModifyUser"
+            }
+        }
+    },
+    "ModuleName": "CustomerAgentPortalModule",
+    "ModuleType": "UIModule",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "CustomerAgentPortalModule/PresentationControllers/PresentationController",
+            "PresentationExtensions": [
+                "Navigation_Presentation_Extn"
+            ]
+        }
+    }
+}

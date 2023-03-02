@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_data_": null,
+    "_date_": "15/12/2022",
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "sb419af83bbd4be7a236288e17bea9b3",
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "advview": "default",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        15,
+        12,
+        2022,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "day": 15,
+    "daytextalignmentincell": 5,
+    "format": "dd/MM/yyyy",
+    "formatteddate": "15/12/2022",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "calFromDate",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f1e52da26fce43bc83857ae767ee3a66",
+    "minutes": 0,
+    "month": 12,
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "pagedate": "/2022",
+    "parent": "flxFromDate",
+    "pf": "frmCustomerDetail",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 0,
+    "selectdate": "//2022",
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "year": 2022,
+    "zindex": 1
+}

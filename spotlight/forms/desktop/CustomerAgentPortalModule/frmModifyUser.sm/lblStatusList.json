@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        5,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa73f6d0133342ab8b6e908e9fd240b3",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s586c79d5fa64aeabdf0097481f23cf0"
+        }
+    },
+    "focusskin": "sc4a2c26f1694f9cb34846ddf7be7730",
+    "groupcells": false,
+    "id": "lblStatusList",
+    "info": null,
+    "isvisible": true,
+    "kuid": "df60dec1d165440fba66cd33ba63907c",
+    "masterdata": [
+        [
+            "Active",
+            "Active"
+        ],
+        [
+            "Inactive",
+            "Inactive"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flxStatus",
+    "pf": "frmModifyUser",
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 2
+}

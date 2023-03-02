@@ -1,0 +1,8 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "AuditLogsManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "AuditLogsManager"
+}

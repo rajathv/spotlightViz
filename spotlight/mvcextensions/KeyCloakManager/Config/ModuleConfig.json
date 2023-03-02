@@ -1,0 +1,14 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "KeyCloakManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "KeyCloakManager",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "KeyCloakManager/PresentationControllers/PresentationController",
+            "PresentationExtensions": []
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "CustomerGroupsAndEntitlManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "CustomerGroupsAndEntitlManager"
+}

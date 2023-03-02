@@ -1,0 +1,209 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s8ff24328417401b877c3ceb2a5fa27c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "btnCheck": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a02fa801dec147ea82d6ce5e74a180ab",
+                "srcKUID": "a101d4b911e846698b74b2fda699defa",
+                "wType": "Button"
+            }
+        },
+        "flxBtnCheck": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c0385ba1a70943919c9ac8e62b220a1c",
+                "srcKUID": "i69893227fe941e5990b0f84d8990b74",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxEnterValue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jdb6103968984eaaa55239a6e374aab8",
+                "srcKUID": "c3c9e960ebd24612b8bc6cfee895c4c9",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHeading": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a3a29a648ad14484b3fa9dc8fd3b9394",
+                "srcKUID": "ae5bc7d9d3b043cba38dec08ddb21027",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxInlineError": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h2f53d636c964aef945c6e55db70cc4d",
+                "srcKUID": "iae8d79ec8704f7397f6d0ecc248be1f",
+                "wType": "FlexContainer"
+            },
+            "isVisible": false
+        },
+        "flxSepartor": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i830ce679ae545a3ab7909270d6b2703",
+                "srcKUID": "f7a685b6673c45b991c0d4dfab34b5ae",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxUserNameError": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ae4e00a770c842b185f82bc629be3ce3",
+                "srcKUID": "g19510f409e14e9fb49d6bbe44298fed",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblCount": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b9ab269597744251a3dec58bcfe2fafd",
+                "srcKUID": "d7e0f7b949514607b332e00144a3d99a",
+                "wType": "Label"
+            }
+        },
+        "lblErrorIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b578d4afdf074080a0b534fae0f8aa7b",
+                "srcKUID": "b3f5e76940344e8d8b4961ebb1392c36",
+                "wType": "Label"
+            }
+        },
+        "lblErrorText": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e601ddf78ae54c65af33705a730e3674",
+                "srcKUID": "e2ebcf23354b4a8dafb9da3a55b10d32",
+                "wType": "Label"
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            }
+        },
+        "lblHeadingText": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e8a27400b004411d98eeb2588e469151",
+                "srcKUID": "d5552d521e684c989d7b5d2baece479e",
+                "wType": "Label"
+            },
+            "i18n_text": "i18n.frmUsers.lblFirstName",
+            "text": "First Name"
+        },
+        "lblOptional": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a8747b0e30404b6aac2859a96b4ad535",
+                "srcKUID": "b9f8ebb8b27d41089b6925c8c8de3f8f",
+                "wType": "Label"
+            }
+        },
+        "lblUsernameCheck": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gec648bfd392405b9384cfe08b000466",
+                "srcKUID": "c6226229f7ee4b69820ea16d00df558b",
+                "wType": "Label"
+            }
+        },
+        "lblUsernameCheckIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bdee22ac12d0463a8e52f39b03013d52",
+                "srcKUID": "h736946a23f949e1aa9a727c1ef4e54d",
+                "wType": "Label"
+            }
+        },
+        "tbxEnterValue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gf1a0eb076054be78c89f70f4addf22f",
+                "srcKUID": "a7321cb35cd2494c8046c028815de4bc",
+                "wType": "TextField"
+            },
+            "i18n_placeholder": "i18n.frmUsers.lblFirstName",
+            "placeholder": "First Name",
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            }
+        },
+        "textBoxEntry": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "af165af038ed485cbbb89a3ef7bf8651",
+                "srcKUID": "g4a8080266f142f1bf64605488aeb5af",
+                "wType": "FlexContainer"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "textBoxOwnerDetailsEntry11",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "af165af038ed485cbbb89a3ef7bf8651",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxOwnerDetailsColumn11",
+    "pf": "frmCompanies",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "g4a8080266f142f1bf64605488aeb5af",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

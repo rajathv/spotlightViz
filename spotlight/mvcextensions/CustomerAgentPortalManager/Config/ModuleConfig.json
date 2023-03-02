@@ -1,0 +1,8 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessExtensions": [],
+        "BusinessControllerClass": "CustomerAgentPortalManager/BusinessControllers/BusinessController"
+    },
+    "ModuleType": "Manager",
+    "ModuleName": "CustomerAgentPortalManager"
+}

@@ -1,0 +1,14 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "DecisionManagementManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "DecisionManagementManager",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "DecisionManagementManager/PresentationControllers/PresentationController",
+            "PresentationExtensions": []
+        }
+    }
+}

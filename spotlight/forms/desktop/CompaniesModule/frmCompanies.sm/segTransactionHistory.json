@@ -1,0 +1,485 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "lblAmountConverted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "990,000.00"
+            },
+            "lblAmountConvertedSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblAmountConvertedSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAmountOriginal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00"
+            },
+            "lblAmountOriginalSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblAmountOriginalSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDateAndTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "01/01/2019 10:30"
+            },
+            "lblRefNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RI123456"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "."
+            },
+            "lblTransctionDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fund transfer"
+            }
+        },
+        {
+            "lblAmountConverted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "990,000.00"
+            },
+            "lblAmountConvertedSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+"
+            },
+            "lblAmountConvertedSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAmountOriginal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00"
+            },
+            "lblAmountOriginalSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblAmountOriginalSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDateAndTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "01/01/2019 10:30"
+            },
+            "lblRefNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RI123456"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "."
+            },
+            "lblTransctionDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fund transfer"
+            }
+        },
+        {
+            "lblAmountConverted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "990,000.00"
+            },
+            "lblAmountConvertedSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblAmountConvertedSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAmountOriginal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00"
+            },
+            "lblAmountOriginalSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblAmountOriginalSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDateAndTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "01/01/2019 10:30"
+            },
+            "lblRefNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RI123456"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "."
+            },
+            "lblTransctionDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fund transfer"
+            }
+        },
+        {
+            "lblAmountConverted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "990,000.00"
+            },
+            "lblAmountConvertedSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblAmountConvertedSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAmountOriginal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00"
+            },
+            "lblAmountOriginalSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+"
+            },
+            "lblAmountOriginalSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDateAndTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "01/01/2019 10:30"
+            },
+            "lblRefNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RI123456"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTransctionDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fund transfer"
+            }
+        },
+        {
+            "lblAmountConverted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00"
+            },
+            "lblAmountConvertedSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblAmountConvertedSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAmountOriginal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00"
+            },
+            "lblAmountOriginalSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+"
+            },
+            "lblAmountOriginalSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDateAndTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "01/01/2019 10:30"
+            },
+            "lblRefNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RI123456"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTransctionDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fund transfer"
+            }
+        },
+        {
+            "lblAmountConverted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00100,000.00"
+            },
+            "lblAmountConvertedSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+"
+            },
+            "lblAmountConvertedSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAmountOriginal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00"
+            },
+            "lblAmountOriginalSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+"
+            },
+            "lblAmountOriginalSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDateAndTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "01/01/2019 10:30"
+            },
+            "lblRefNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RI123456"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTransctionDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fund transfer"
+            }
+        },
+        {
+            "lblAmountConverted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00"
+            },
+            "lblAmountConvertedSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+"
+            },
+            "lblAmountConvertedSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAmountOriginal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00"
+            },
+            "lblAmountOriginalSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblAmountOriginalSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDateAndTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "01/01/2019 10:30"
+            },
+            "lblRefNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RI123456"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTransctionDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fund transfer"
+            }
+        },
+        {
+            "lblAmountConverted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00"
+            },
+            "lblAmountConvertedSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblAmountConvertedSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAmountOriginal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100,000.00"
+            },
+            "lblAmountOriginalSign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblAmountOriginalSymbol": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblDateAndTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "01/01/2019 10:30"
+            },
+            "lblRefNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RI123456"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTransctionDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fund transfer"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "250px"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "07",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segTransactionHistory",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "eabffd6a99274cd49bb1655802135366",
+    "masterdata": {},
+    "maxheight": {
+        "type": "string",
+        "value": "250px"
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxScrollTransctionsSegment",
+    "pf": "frmCompanies",
+    "retainselection": false,
+    "rowTemplateId": "dddf06528ba545bda2c1f57b43e4b329",
+    "rowcounter": 7,
+    "rowfocusskin": "se901dcdd2ae4a58a81f21c009edf99e",
+    "rowskin": "s54014e0d4204ce9acd27107655ded87",
+    "rowtemplate": "flxCustMangTransctionHistory",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sffa0c1a0560403189088e98f7b4f498",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxAmountConverted": "flxAmountConverted",
+        "flxAmountOriginal": "flxAmountOriginal",
+        "flxCustMangRequestHeader": "flxCustMangRequestHeader",
+        "flxCustMangTransctionHistory": "flxCustMangTransctionHistory",
+        "flxFirstColoum": "flxFirstColoum",
+        "lblAmountConverted": "lblAmountConverted",
+        "lblAmountConvertedSign": "lblAmountConvertedSign",
+        "lblAmountConvertedSymbol": "lblAmountConvertedSymbol",
+        "lblAmountOriginal": "lblAmountOriginal",
+        "lblAmountOriginalSign": "lblAmountOriginalSign",
+        "lblAmountOriginalSymbol": "lblAmountOriginalSymbol",
+        "lblDateAndTime": "lblDateAndTime",
+        "lblRefNo": "lblRefNo",
+        "lblSeperator": "lblSeperator",
+        "lblTransctionDescription": "lblTransctionDescription",
+        "lblType": "lblType"
+    },
+    "zindex": 1
+}

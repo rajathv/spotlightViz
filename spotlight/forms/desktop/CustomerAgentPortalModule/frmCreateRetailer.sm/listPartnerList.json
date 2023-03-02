@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        5,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa73f6d0133342ab8b6e908e9fd240b3",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s586c79d5fa64aeabdf0097481f23cf0"
+        }
+    },
+    "focusskin": "sc4a2c26f1694f9cb34846ddf7be7730",
+    "groupcells": false,
+    "id": "listPartnerList",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b1640862269948c4b06d4403a3b85ee9",
+    "masterdata": [
+        [
+            "0",
+            "Please select Retail Partner"
+        ],
+        [
+            "k2",
+            "Samsung"
+        ],
+        [
+            "k3",
+            "Nokia"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flxPartnerList",
+    "pf": "frmCreateRetailer",
+    "selectedkey": "0",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "0",
+        "Please select Retail Partner"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 2
+}

@@ -1,0 +1,35 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "ServicesManagementModule/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {
+        "desktop": {
+            "frmServiceManagement": {
+                "Controller": "ServicesManagementModule/frmServiceManagementController",
+                "ControllerExtensions": [
+                    "AdminConsoleCommonUtilities",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "downloadCSV_Extn",
+                    "Pagination_FormExtn",
+                    "Sorting_FormExtn",
+                    "CurrencyUtils_FormExtn",
+                    "TabUtil_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "ServicesManagementModule/frmServiceManagement",
+                "friendlyName": "frmServiceManagement"
+            }
+        }
+    },
+    "ModuleName": "ServicesManagementModule",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "ServicesManagementModule/PresentationControllers/PresentationController",
+            "PresentationExtensions": [
+                "Navigation_Presentation_Extn"
+            ]
+        }
+    }
+}

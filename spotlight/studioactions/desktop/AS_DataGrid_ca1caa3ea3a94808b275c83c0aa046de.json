@@ -1,0 +1,23 @@
+{
+    "AS_DataGrid_ca1caa3ea3a94808b275c83c0aa046de": {
+        "id": "AS_DataGrid_ca1caa3ea3a94808b275c83c0aa046de",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCustomerDetail",
+            "type": "forms",
+            "platform": null,
+            "KUID": "caa408fd48a3463da580897817af0c76"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_a51c2c2645e5430c9306f8114d271473",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onSelectedCellGrid();",
+            "parentId": null
+        }]
+    }
+}

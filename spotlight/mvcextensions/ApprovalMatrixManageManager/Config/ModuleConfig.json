@@ -1,0 +1,9 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "ApprovalMatrixManageManager/BusinessControllers/BusinessController",
+        "BusinessExtensions": []
+    },
+    "Forms": {},
+    "ModuleName": "ApprovalMatrixManageManager",
+    "ModuleType": "Manager"
+}

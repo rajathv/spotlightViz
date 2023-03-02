@@ -1,0 +1,1846 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "800px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa5c69da20ff423387ec3acc4b17acde",
+    "_top_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "CustomerSearchandResults": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "gd98fc475e2647848bf84438a0576c38",
+                "srcKUID": "dca2993e766b4a14834ca2d493be9646",
+                "wType": "FlexScrollContainer"
+            }
+        },
+        "FlexGroupCriteria5": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "icc051b5b35345cc90e9c3200f305481",
+                "srcKUID": "j4ae9dbf1bb14915a052aa4fa8333cd9",
+                "wType": "FlexContainer"
+            }
+        },
+        "btnAdvSearch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d9809181139247838668bd8903412da6",
+                "srcKUID": "aaaf2e5b99f541568b37a6f6c5257793",
+                "wType": "Button"
+            }
+        },
+        "btnReset": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "df5d17057372415b8e6ae2f558ff56ff",
+                "srcKUID": "d73895ab5f2540dfa303440e6b78e7d4",
+                "wType": "Button"
+            }
+        },
+        "btnSave": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d8e9289ddd7f498cabaf3f50785321c4",
+                "srcKUID": "j5168b7b398748269ef125e1250a54ae",
+                "wType": "Button"
+            }
+        },
+        "flxAdvSearch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e3d051c1d4814fbc87d492617db4fb17",
+                "srcKUID": "d0f92aadb752489a9233ae8defb7bbc8",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxAdvSearchHeaderandSearchBtn": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fe8b042ff2d741779a17b86273574cc9",
+                "srcKUID": "e63e663d1e044aa498bf52b3ab9a79df",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxFirstRow": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bf83e565a20845328c54f017344fa067",
+                "srcKUID": "e09f026ac9db4a7097c17ba08311f6f8",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHeaders": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c0d3a37140a34b41bbccf9bc7f7c706f",
+                "srcKUID": "bb8d05466dd8495b8beb176494a6ac3e",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxImg": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a90572b0c9134575a279ce41688f463f",
+                "srcKUID": "e32ac4afbe68443b83df050806d43e49",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxInner": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a72c3f5a4a424cb89359731299088ec3",
+                "srcKUID": "f000de0f9c5c4a628d58e05e93c40715",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxLeftContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j9e34389de174240bd532aba2fc05eb6",
+                "srcKUID": "ab2dd53a8c2446babb1f4e15c714d2c7",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxNoResultsFound": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c7916efa40ec47078efa5ccc1a938f86",
+                "srcKUID": "e424e8d5793b4b0186732cb06f32da87",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxResults": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bb81230224fb4230a5d71a8f7c7ef2d0",
+                "srcKUID": "j5d2539a443b4639bf347e0cd7d0df9b",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxResultsHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fd4fa0be20604722b20543493f358fad",
+                "srcKUID": "i10dba9fc1e14126a97fa5c162d81c08",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxRightContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d0898cf9faa4457fbca5a53a9f886cf0",
+                "srcKUID": "c3e2e0e84a494d1fb47c5e514a8e73e7",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ea462c5dc16c4122a524f4172cde4c34",
+                "srcKUID": "g637fbf2cf1b452bb2caaf77623a4e13",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ff67d414c4254209848211152fd7049f",
+                "srcKUID": "cd27e81be9974f70a15f10c5b9561fbb",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchCriteria1": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b1cb7ba00dc84a04a37b7929b7fb3eec",
+                "srcKUID": "gccff7671a7845f3b26c89349bf75abe",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchCriteria2": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cd21adb1213c4c8d8b1715fd29452eb2",
+                "srcKUID": "b4f13c05d3d34f1281b28875225f856c",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchCriteria3": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c2bbbf744f224d2aa6d7271d7666ce9b",
+                "srcKUID": "dea1bf460f004ac4a00682c810d41c79",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchCriteria4": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cf6aaba0a42241f891675e020d7d785e",
+                "srcKUID": "b4c54a9382eb437eb88c8fd1f0a1b8ce",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchCriteria5": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ab1cbffa2b424f1697e9616bd34eed76",
+                "srcKUID": "f50cfe701e1540d0a23166bce3436241",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchCriteria6": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cca905c2025449419dd3c2ef729b2762",
+                "srcKUID": "a6136e65230545e99f9378dcebd24eb1",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchCriteria7": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i2f62cdfa8a74767baa14d019ff23001",
+                "srcKUID": "eb74db425eed43a8a2e94afee7c900c0",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchCriteria8": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f5af84ff231e469e8bdad6737ca06f68",
+                "srcKUID": "ia41d02806e14ac59663fbda78d6d5fd",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "aed366ffb0f84050a531eecb8a8402b4",
+                "srcKUID": "c3daa6d63346474ba210e380fbbee284",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchSeperator": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e3655e7c069b414393e12f194357b6ba",
+                "srcKUID": "ja27740825654666bb6420b41ba933e7",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSecondRow": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c28da3bc3da94c3ea70aed9eea70422b",
+                "srcKUID": "e4bea4ce32ce4b1c8f761c78bf8feadf",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSortIconWrapper": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ge700cc9def0498ea4a10e1bfbe6e985",
+                "srcKUID": "gf89b3bbd4594ef3a397918fd498fad3",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxThirdRow": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c5e3a958a45f441a95b8289e6f68dc69",
+                "srcKUID": "b8a4acecbd984bc78dd39ef8873fd622",
+                "wType": "FlexContainer"
+            }
+        },
+        "fonticonSortByName": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h7b668683faa4f84a6df786c5379fa98",
+                "srcKUID": "h28a401ccf9e4bc0889e010d9ab6e6ba",
+                "wType": "Label"
+            }
+        },
+        "fonticonrightarrow": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b63e276bed734de58083d05642301489",
+                "srcKUID": "g3e38d8840d14188b042c9ab429f5d02",
+                "wType": "Label"
+            }
+        },
+        "imgSearchError": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bbfcb4f408244401adec95c0798d3db0",
+                "srcKUID": "d309b9bb68b24ae5b72aeb4488f8ab40",
+                "wType": "Image"
+            },
+            "src": "error_2x.png"
+        },
+        "lblCompanyBusinessTag": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a8f9ee34e1e945e28a4465853ca8fb4c",
+                "srcKUID": "f5310ee42abb4f0587fe328f8615545f",
+                "wType": "Label"
+            }
+        },
+        "lblCreateCustomer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a0f45220ea9242a9a5ff89ba8f52e791",
+                "srcKUID": "f98647cb11524356b80ba9f7735c137a",
+                "wType": "Label"
+            }
+        },
+        "lblDefaultSearchHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f53cda995f2442c98ad086085a8a8b76",
+                "srcKUID": "gd8551a49be54290823e44ce63e0db4a",
+                "wType": "Label"
+            }
+        },
+        "lblFIlterBy": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fba498bcdbcd4fb8a795eafeb880ed4b",
+                "srcKUID": "g1948b7f49b341628670c11ada055178",
+                "wType": "Label"
+            }
+        },
+        "lblNoResult": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ab1e1b8007e34716a0ecae22984f9134",
+                "srcKUID": "c1bf734a91394d429695bb9fcc74a6e6",
+                "wType": "Label"
+            }
+        },
+        "lblResultsHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b32c457d4f144678bd7df6aafd23e766",
+                "srcKUID": "a8fb4ac617034bf7aff115aac2a0188d",
+                "wType": "Label"
+            }
+        },
+        "lblSearchError": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b4bcf5f2c0c84ec1a1904b0d28be9fb3",
+                "srcKUID": "b9821f3b08394e70a557ac0e1a199097",
+                "wType": "Label"
+            }
+        },
+        "lblSearchParam1": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cfdf5020ec0c499f96c0e5c5dbd93313",
+                "srcKUID": "cf631da35c0f4ef998a919d73aaaaee1",
+                "wType": "Label"
+            }
+        },
+        "lblSearchParam2": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "de1faba199064dada46ef5a6d9b5f7ca",
+                "srcKUID": "ibb2fea06ff742f88ff635f2964e24a3",
+                "wType": "Label"
+            }
+        },
+        "lblSearchParam3": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dff74ce39587446eb83559c9feb8149c",
+                "srcKUID": "j61c0ce1736e4fa0810e99389d669c68",
+                "wType": "Label"
+            }
+        },
+        "lblSearchParam4": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jbee89b3abd4429aaf0331be276c1e4a",
+                "srcKUID": "j4e1510f87d242a39a0cf97cd64ce1ba",
+                "wType": "Label"
+            },
+            "i18n_text": "i18n.frmAlertsManagement.Email"
+        },
+        "lblSearchParam5": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c6b09d0acb2d4d7f8e4ed204ce27df11",
+                "srcKUID": "af3015cb69a3422c96e54fb75cfb24ab",
+                "wType": "Label"
+            }
+        },
+        "lblSearchParam6": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gc25507f20364d7e90b0e56ecc19e828",
+                "srcKUID": "dc50f1d78bd14537b78af6a1364a2828",
+                "wType": "Label"
+            }
+        },
+        "lblSearchParam7": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e5df30344de44b1db1b9e1f98d33f156",
+                "srcKUID": "bc46348beff341a79ced86ee767d2ee7",
+                "wType": "Label"
+            }
+        },
+        "lblSearchParam8": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b64018fcc45e46dcad4024b4d053019c",
+                "srcKUID": "h394358a31e44f59b7e4b15a26df68df",
+                "wType": "Label"
+            }
+        },
+        "lblSortByName": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hf752eea39ca4803b01e4fc9c5ce5e89",
+                "srcKUID": "ad01ff0056e743fd97e838d949472070",
+                "wType": "Label"
+            }
+        },
+        "lblTINBusinessTag": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "da1adc29e4d54e3b9faf5f6ccdb1ef66",
+                "srcKUID": "acd24d96d3c442ce987a3d040c040a10",
+                "wType": "Label"
+            }
+        },
+        "listboxCustomerType": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d45ad5b55a3a42d98f2f1f2d4e8ed037",
+                "srcKUID": "d65a2268cc5c4a25a195c14a4409a2ad",
+                "wType": "ListBox"
+            }
+        },
+        "listboxSearchParam5": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ce5ac69e0d11488c80099fe8c8182d08",
+                "srcKUID": "e3f56dc7ad5f45c2978837e553bf9ddd",
+                "wType": "ListBox"
+            }
+        },
+        "segCustomerResults": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d673f98f091a492180e72d7bd562dfde",
+                "srcKUID": "c5449b88c6fc4b27a92cab25a0338b4b",
+                "wType": "Segment"
+            },
+            "data": {
+                "desktop": [
+                    {
+                        "fontIconCircle1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "imgRadioBtn": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag.png"
+                        },
+                        "lblContent1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Retail Customer"
+                        },
+                        "lblContent2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblContent3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Small Business User"
+                        },
+                        "lblContent4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Micro Business User"
+                        },
+                        "lblContent5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblData1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "TRN232422"
+                        },
+                        "lblData2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "*****2212"
+                        },
+                        "lblData3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "02/12/1995"
+                        },
+                        "lblData4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblHeading1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CUSTOMER ID"
+                        },
+                        "lblHeading2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SSN"
+                        },
+                        "lblHeading3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DOB"
+                        },
+                        "lblHeading4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblHeading8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblIconStatus": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblRowSeparator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblStatusValue": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "+180632434323"
+                        }
+                    },
+                    {
+                        "fontIconCircle1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "imgRadioBtn": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag.png"
+                        },
+                        "lblContent1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Retail Customer"
+                        },
+                        "lblContent2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblContent3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Small Business User"
+                        },
+                        "lblContent4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Micro Business User"
+                        },
+                        "lblContent5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblData1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "TRN232422"
+                        },
+                        "lblData2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "*****2212"
+                        },
+                        "lblData3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "02/12/1995"
+                        },
+                        "lblData4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblHeading1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CUSTOMER ID"
+                        },
+                        "lblHeading2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SSN"
+                        },
+                        "lblHeading3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DOB"
+                        },
+                        "lblHeading4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblHeading8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblIconStatus": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblRowSeparator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblStatusValue": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "+180632434323"
+                        }
+                    },
+                    {
+                        "fontIconCircle1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "imgRadioBtn": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag.png"
+                        },
+                        "lblContent1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Retail Customer"
+                        },
+                        "lblContent2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblContent3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Small Business User"
+                        },
+                        "lblContent4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Micro Business User"
+                        },
+                        "lblContent5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblData1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "TRN232422"
+                        },
+                        "lblData2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "*****2212"
+                        },
+                        "lblData3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "02/12/1995"
+                        },
+                        "lblData4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblHeading1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CUSTOMER ID"
+                        },
+                        "lblHeading2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SSN"
+                        },
+                        "lblHeading3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DOB"
+                        },
+                        "lblHeading4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblHeading8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblIconStatus": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblRowSeparator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblStatusValue": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "+180632434323"
+                        }
+                    },
+                    {
+                        "fontIconCircle1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "imgRadioBtn": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag.png"
+                        },
+                        "lblContent1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Retail Customer"
+                        },
+                        "lblContent2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblContent3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Small Business User"
+                        },
+                        "lblContent4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Micro Business User"
+                        },
+                        "lblContent5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblData1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "TRN232422"
+                        },
+                        "lblData2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "*****2212"
+                        },
+                        "lblData3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "02/12/1995"
+                        },
+                        "lblData4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblHeading1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CUSTOMER ID"
+                        },
+                        "lblHeading2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SSN"
+                        },
+                        "lblHeading3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DOB"
+                        },
+                        "lblHeading4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblHeading8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblIconStatus": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblRowSeparator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblStatusValue": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "+180632434323"
+                        }
+                    },
+                    {
+                        "fontIconCircle1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "imgRadioBtn": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag.png"
+                        },
+                        "lblContent1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Retail Customer"
+                        },
+                        "lblContent2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblContent3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Small Business User"
+                        },
+                        "lblContent4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Micro Business User"
+                        },
+                        "lblContent5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblData1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "TRN232422"
+                        },
+                        "lblData2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "*****2212"
+                        },
+                        "lblData3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "02/12/1995"
+                        },
+                        "lblData4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblHeading1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CUSTOMER ID"
+                        },
+                        "lblHeading2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SSN"
+                        },
+                        "lblHeading3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DOB"
+                        },
+                        "lblHeading4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblHeading8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblIconStatus": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblRowSeparator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblStatusValue": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "+180632434323"
+                        }
+                    },
+                    {
+                        "fontIconCircle1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "imgRadioBtn": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag.png"
+                        },
+                        "lblContent1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Retail Customer"
+                        },
+                        "lblContent2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblContent3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Small Business User"
+                        },
+                        "lblContent4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Micro Business User"
+                        },
+                        "lblContent5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblData1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "TRN232422"
+                        },
+                        "lblData2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "*****2212"
+                        },
+                        "lblData3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "02/12/1995"
+                        },
+                        "lblData4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblHeading1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CUSTOMER ID"
+                        },
+                        "lblHeading2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SSN"
+                        },
+                        "lblHeading3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DOB"
+                        },
+                        "lblHeading4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblHeading8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblIconStatus": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblRowSeparator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblStatusValue": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "+180632434323"
+                        }
+                    },
+                    {
+                        "fontIconCircle1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "imgRadioBtn": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag.png"
+                        },
+                        "lblContent1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Retail Customer"
+                        },
+                        "lblContent2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblContent3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Small Business User"
+                        },
+                        "lblContent4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Micro Business User"
+                        },
+                        "lblContent5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblData1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "TRN232422"
+                        },
+                        "lblData2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "*****2212"
+                        },
+                        "lblData3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "02/12/1995"
+                        },
+                        "lblData4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblHeading1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CUSTOMER ID"
+                        },
+                        "lblHeading2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SSN"
+                        },
+                        "lblHeading3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DOB"
+                        },
+                        "lblHeading4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblHeading8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblIconStatus": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblRowSeparator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblStatusValue": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "+180632434323"
+                        }
+                    },
+                    {
+                        "fontIconCircle1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "imgRadioBtn": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag.png"
+                        },
+                        "lblContent1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Retail Customer"
+                        },
+                        "lblContent2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblContent3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Small Business User"
+                        },
+                        "lblContent4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Micro Business User"
+                        },
+                        "lblContent5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblData1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "TRN232422"
+                        },
+                        "lblData2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "*****2212"
+                        },
+                        "lblData3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "02/12/1995"
+                        },
+                        "lblData4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblHeading1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CUSTOMER ID"
+                        },
+                        "lblHeading2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SSN"
+                        },
+                        "lblHeading3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DOB"
+                        },
+                        "lblHeading4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblHeading8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblIconStatus": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblRowSeparator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblStatusValue": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "+180632434323"
+                        }
+                    },
+                    {
+                        "fontIconCircle1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "imgRadioBtn": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag.png"
+                        },
+                        "lblContent1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Retail Customer"
+                        },
+                        "lblContent2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblContent3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Small Business User"
+                        },
+                        "lblContent4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Micro Business User"
+                        },
+                        "lblContent5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblData1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "TRN232422"
+                        },
+                        "lblData2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "*****2212"
+                        },
+                        "lblData3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "02/12/1995"
+                        },
+                        "lblData4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblHeading1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CUSTOMER ID"
+                        },
+                        "lblHeading2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SSN"
+                        },
+                        "lblHeading3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DOB"
+                        },
+                        "lblHeading4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblHeading8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblIconStatus": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblRowSeparator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblStatusValue": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "+180632434323"
+                        }
+                    },
+                    {
+                        "fontIconCircle1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "fontIconCircle5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "imgRadioBtn": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag.png"
+                        },
+                        "lblContent1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Retail Customer"
+                        },
+                        "lblContent2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblContent3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Small Business User"
+                        },
+                        "lblContent4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Micro Business User"
+                        },
+                        "lblContent5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Applicant"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblData1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "TRN232422"
+                        },
+                        "lblData2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "*****2212"
+                        },
+                        "lblData3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "02/12/1995"
+                        },
+                        "lblData4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblData8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Active"
+                        },
+                        "lblHeading1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CUSTOMER ID"
+                        },
+                        "lblHeading2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SSN"
+                        },
+                        "lblHeading3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DOB"
+                        },
+                        "lblHeading4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "STATUS"
+                        },
+                        "lblHeading7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblHeading8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "i18nkey": "i18n.permission.EMAILID",
+                            "text": "STATUS"
+                        },
+                        "lblIconStatus": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblRowSeparator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Label"
+                        },
+                        "lblStatusValue": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "+180632434323"
+                        }
+                    }
+                ]
+            }
+        },
+        "txtSearchParam1": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ea934026a99240a0b3599e0e7422982b",
+                "srcKUID": "ae5d44cf81744bc280aa7f5a25c66133",
+                "wType": "TextField"
+            }
+        },
+        "txtSearchParam2": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b3265be9b75840bcb680cce48919d907",
+                "srcKUID": "acf28ef70a40465cbf9ed5992818c122",
+                "wType": "TextField"
+            }
+        },
+        "txtSearchParam3": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d934cfae55c4436a8da73904945181d3",
+                "srcKUID": "dc1273ccd41f437789903f04080233e2",
+                "wType": "TextField"
+            }
+        },
+        "txtSearchParam4": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gc2a3837f3ad47a5b3fea02342063404",
+                "srcKUID": "fb1a68ee5dbb4846aa39d48bfcaf18b1",
+                "wType": "TextField"
+            },
+            "i18n_placeholder": "i18n.frmAlertsManagement.Email"
+        },
+        "txtSearchParam5": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i8019ba424c4410b90e9cdd0c584f5d0",
+                "srcKUID": "aaacea0aa5554c9e9d7eb66e4bcef321",
+                "wType": "TextField"
+            }
+        },
+        "txtSearchParam6": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gdd0d5fabf0740feabd7a5142af5076b",
+                "srcKUID": "c8ac700aa0d14d7fa269f5f17e384cd6",
+                "wType": "TextField"
+            }
+        },
+        "txtSearchParam7": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fcb17b58df094f459aa39062e3fb4a09",
+                "srcKUID": "a6b085a713514814859006d96e622d19",
+                "wType": "TextField"
+            }
+        },
+        "txtSearchParam8": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b499de8645ed4ceca168a8d629658869",
+                "srcKUID": "d83912310ba24e7787b4760b405f7c26",
+                "wType": "TextField"
+            }
+        }
+    },
+    "enablescrolling": false,
+    "id": "CustomerSearchandResults",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "gd98fc475e2647848bf84438a0576c38",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxMainContent",
+    "pf": "frmCustomerManagement",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "scrolldirection": 4,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "dca2993e766b4a14834ca2d493be9646",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

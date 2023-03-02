@@ -1,0 +1,22 @@
+{
+    "AS_DataGrid_ad7a217265234d12929db7cf9883d717": {
+        "id": "AS_DataGrid_ad7a217265234d12929db7cf9883d717",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreateRetailer",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j2e1c3266dd647f8b90be203fa4c8535"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowSelected_ca3fb6b99343476bb7a155604723b660",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onSelectedCellGrid();"
+        }]
+    }
+}

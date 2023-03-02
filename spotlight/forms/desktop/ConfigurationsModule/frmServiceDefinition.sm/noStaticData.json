@@ -1,0 +1,128 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": "340px",
+    "_left_": "35px",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_right_": "35px",
+    "_skin_": "s8ff24328417401b877c3ceb2a5fa27c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {},
+    "androidwearos": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "btnAddStaticContent": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e176fddfc6e44d69b364436d35581b48",
+                "srcKUID": "j24176242c1b4f7fbef17f07d6486049",
+                "wType": "Button"
+            },
+            "i18n_text": "i18n.DragBox.ADD",
+            "text": "",
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "70dp"
+                }
+            }
+        },
+        "flxNoStaticDataWrapper": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e17b0ca454a44b40a0f632c68e7c7d4e",
+                "srcKUID": "a7f59a72832a41c8888846c2b5581ea7",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblNoStaticContentCreated": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a9c6bcc3051d4e908d531522664f01a6",
+                "srcKUID": "ab61866727a446249178b71b03f1bf21",
+                "wType": "Label"
+            },
+            "i18n_text": null,
+            "text": "No Service Definition added yet"
+        },
+        "lblNoStaticContentMsg": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a5588cb0220e45efaa126f741b13f874",
+                "srcKUID": "c3f02a02fb284c35a7458c5fd292e4b5",
+                "wType": "Label"
+            },
+            "i18n_text": "i18n.ServiceDefinition.AddServiceDefinition",
+            "text": ""
+        },
+        "noStaticData": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "gf6757a01f83496283921be467d9fe27",
+                "srcKUID": "b024275959924fadb6e3c95560d50400",
+                "wType": "FlexContainer"
+            }
+        }
+    },
+    "desktopweb": {},
+    "id": "noStaticData",
+    "info": null,
+    "ipad": {},
+    "iphone": {},
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kiosk": {},
+    "kuid": "gf6757a01f83496283921be467d9fe27",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "onclick": "AS_FlexContainer_j1a6b556b4e842839c809061c5560949",
+    "parent": "flxNoGroups",
+    "pf": "frmServiceDefinition",
+    "responsiveData": {},
+    "snaptogrid": true,
+    "sourceUserWidget": "b024275959924fadb6e3c95560d50400",
+    "spa": {},
+    "spaan": {},
+    "spaandroidtablet": {},
+    "spabb": {},
+    "spaip": {},
+    "spaipad": {},
+    "spamobile": {},
+    "spatablet": {},
+    "spawindowstablet": {},
+    "spawinphone8": {},
+    "tabrcandroid": {},
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance",
+    "windows10": {},
+    "windows8": {},
+    "winphone10": {},
+    "winphone8": {},
+    "zindex": 1
+}

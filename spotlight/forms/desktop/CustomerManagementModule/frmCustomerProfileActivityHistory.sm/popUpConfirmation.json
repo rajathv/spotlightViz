@@ -1,0 +1,202 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s39233a8d65f40d5b9120e116f6d9ef6",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "btnPopUpCancel": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ib294c15664e42299eb86d81980ef33c",
+                "srcKUID": "d4ffebacb2fc450f90f34ff2c512b36f",
+                "wType": "Button"
+            },
+            "i18n_text": "i18n.PopUp.NoLeaveAsIS",
+            "minWidth": {
+                "Default": {
+                    "type": "string",
+                    "value": "80dp"
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "20px"
+                }
+            },
+            "text": "NO",
+            "width": {
+                "Default": {
+                    "type": "ref",
+                    "value": "preferred"
+                }
+            }
+        },
+        "btnPopUpDelete": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e2c9190fcbb941bfb2fe16928cd92efc",
+                "srcKUID": "d74b32688d0448359e725db30e5db9ca",
+                "wType": "Button"
+            },
+            "i18n_text": "i18n.PopUp.YesDeactivate",
+            "text": "YES",
+            "width": {
+                "Default": {
+                    "type": "ref",
+                    "value": "preferred"
+                }
+            }
+        },
+        "flxPopUp": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c728d579d4cc4194b605125d68b1fdfb",
+                "srcKUID": "f1999a7df0404922bf7e8acfb6a3780a",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPopUpButtons": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "accd8450dc864ad7b1bf7c13386a8e08",
+                "srcKUID": "f009cbfda01245849be265a8e58d3cf3",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPopUpClose": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d4115c137c3542a1accc808992795ff6",
+                "srcKUID": "f9727789f4894508b70f7d5ae8b7a9a2",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPopUpTopColor": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b74592ecc72441b2a9c61b682a2d722f",
+                "srcKUID": "d5d6b9f19ae4477b8708d1b775160fb5",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPopupHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e783cad054ac4dd7b1e19eccf9657ff3",
+                "srcKUID": "ad64beaac2734a82ad110cd93e7e9838",
+                "wType": "FlexContainer"
+            }
+        },
+        "fontIconImgCLose": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cd1865cd6eb7412d8d61802f44ca9a3e",
+                "srcKUID": "hb8853052adb4ceb98482f3b9abdb6b1",
+                "wType": "Label"
+            }
+        },
+        "lblPopUpClose": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e4db2a65bc4140bf9fb5bda468df3619",
+                "srcKUID": "j726c91d687f4bdea9b61ee15718ea91",
+                "wType": "Label"
+            }
+        },
+        "lblPopUpMainMessage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e07cc2fc0e36449aa45cb0186ba3f5de",
+                "srcKUID": "cf94c2324e174d609ee2a12b7557d0a5",
+                "wType": "Label"
+            },
+            "i18n_text": null,
+            "text": "Set the Branch Offline?"
+        },
+        "popUp": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "fa47b265edd6450bb1428b56c6de1aee",
+                "srcKUID": "bf3aac0ddc8b47a0b463a18207905574",
+                "wType": "FlexContainer"
+            }
+        },
+        "rtxPopUpDisclaimer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i1911ef934454eeb96a7d764ae479671",
+                "srcKUID": "j4d87455f6ec44dbacababd4bf714b40",
+                "wType": "RichText"
+            },
+            "i18n_text": "i18n.frmCustomerManagementController.Are_you_sure_to",
+            "maxWidth": {
+                "Default": {
+                    "type": "string",
+                    "value": "540px"
+                }
+            },
+            "minWidth": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "text": "Locking a user will prevent the user from logging into the retail banking mobile and online banking applications.<br><br>Are you sure you want to lock this user? "
+        }
+    },
+    "id": "popUpConfirmation",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "fa47b265edd6450bb1428b56c6de1aee",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxPopUpConfirmation",
+    "pf": "frmCustomerProfileActivityHistory",
+    "snaptogrid": true,
+    "sourceUserWidget": "bf3aac0ddc8b47a0b463a18207905574",
+    "vizprops": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

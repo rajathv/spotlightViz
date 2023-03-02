@@ -1,0 +1,14 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "PasswordAgeAndLockoutManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "PasswordAgeAndLockoutManager",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "PasswordAgeAndLockoutManager/PresentationControllers/PresentationController",
+            "PresentationExtensions": []
+        }
+    }
+}

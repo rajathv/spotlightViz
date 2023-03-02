@@ -1,0 +1,16 @@
+{
+    "AS_DataGrid_d5521771f39b4307ae46dd5eea165149": {
+        "id": "AS_DataGrid_d5521771f39b4307ae46dd5eea165149",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowSelected_jced92e0486b4bf8ac7cfec971557e35",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onSelectedCellGrid();"
+        }]
+    }
+}

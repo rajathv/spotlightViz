@@ -1,0 +1,34 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "InternalUserModule/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {
+        "desktop": {
+            "frmUsers": {
+                "Controller": "InternalUserModule/frmUsersController",
+                "ControllerExtensions": [
+                    "AdminConsoleCommonUtilities",
+                    "Pagination_FormExtn",
+                    "Sorting_FormExtn",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "DateTimeUtils_FormExtn",
+                    "TabUtil_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "InternalUserModule/frmUsers",
+                "friendlyName": "frmUsers"
+            }
+        }
+    },
+    "ModuleName": "InternalUserModule",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "InternalUserModule/PresentationControllers/PresentationController",
+            "PresentationExtensions": [
+                "Navigation_Presentation_Extn"
+            ]
+        }
+    }
+}

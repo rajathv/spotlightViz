@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_children_": [],
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s8ff24328417401b877c3ceb2a5fa27c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "ide_formUpdateUI": "AS_UWI_bed5cd153f1a4711856e36f4df8fcdc7"
+    },
+    "enablescrolling": true,
+    "id": "deviceAuthenticator",
+    "info": null,
+    "iscustomlayout": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "da4843c2a4d746aa87bdb7fa6c9eb02a",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxDeviceAuthenticator",
+    "pf": "frmCustomerProfileDeviceInfo",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "be19ea6b07544bce9f879ec0b69deecc",
+    "wType": "UserWidgetInstance"
+}

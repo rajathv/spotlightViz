@@ -1,0 +1,155 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_data_": [
+        {
+            "btnShowPdf": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "imgCheck": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblApplicationId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblIban": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblMobileNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblNationalId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segApproval",
+    "info": null,
+    "invokedProperty": "unselectedStateImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f69b179812704a6fa5158fc0fe575c7e",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxContent",
+    "pf": "frmCounterSign",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "h8b89e12cd824706b936e528c3401f22",
+    "rowcounter": 0,
+    "rowfocusskin": "se901dcdd2ae4a58a81f21c009edf99e",
+    "rowskin": "s54014e0d4204ce9acd27107655ded87",
+    "rowtemplate": "CopyflxMain",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sffa0c1a0560403189088e98f7b4f498",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectimage": "acme.png",
+    "selectionbehavior": "multiselect",
+    "selectionbehaviorconfig": {
+        "imageIdentifier": "imgCheck",
+        "selectedStateImage": "acme.png",
+        "unselectedStateImage": "circle_xxl.png"
+    },
+    "selectionindicator": "imgCheck",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "unselectimage": "circle_xxl.png",
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxMain": "CopyflxMain",
+        "btnShowPdf": "btnShowPdf",
+        "flxApplicatoinId": "flxApplicatoinId",
+        "flxCheckSelection": "flxCheckSelection",
+        "flxIban": "flxIban",
+        "flxLoanContract": "flxLoanContract",
+        "flxMobileNumber": "flxMobileNumber",
+        "flxNationalId": "flxNationalId",
+        "flxSrNumber": "flxSrNumber",
+        "imgCheck": "imgCheck",
+        "lblApplicationId": "lblApplicationId",
+        "lblIban": "lblIban",
+        "lblMobileNumber": "lblMobileNumber",
+        "lblNationalId": "lblNationalId",
+        "lblSerNum": "lblSerNum"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Button_h2dc4cee4e9740efb7521137c669e430": {
+        "id": "AS_Button_h2dc4cee4e9740efb7521137c669e430",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCounterSign",
+            "type": "forms",
+            "platform": null,
+            "KUID": "de5ca621f9f141b09ba43003826055a7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__e63c9f7881aa4729869ca44c36cd7dda",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onApproveBtnClick",
+            "display": "onApproveBtnClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

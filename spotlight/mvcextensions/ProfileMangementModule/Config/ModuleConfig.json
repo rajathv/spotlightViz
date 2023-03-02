@@ -1,0 +1,47 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "ProfileMangementModule/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {
+        "desktop": {
+            "frmCreateProfile": {
+                "Controller": "ProfileManagement/frmCreateProfileController",
+                "ControllerExtensions": [
+                    "Sorting_FormExtn",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "DateTimeUtils_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "TabUtil_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "ProfileManagement/frmCreateProfile",
+                "friendlyName": "frmCreateProfile"
+            },
+            "frmProfiles": {
+                "Controller": "ProfileManagement/frmProfilesController",
+                "ControllerExtensions": [
+                    "Sorting_FormExtn",
+                    "WidgetPermission_Checker_FormExtns",
+                    "Navigation_Form_Extn",
+                    "DateTimeUtils_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "TabUtil_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "ProfileManagement/frmProfiles",
+                "friendlyName": "frmProfiles"
+            }
+        }
+    },
+    "ModuleName": "ProfileMangementModule",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "ProfileMangementModule/PresentationControllers/PresentationController",
+            "PresentationExtensions": [
+                "Navigation_Presentation_Extn"
+            ]
+        }
+    }
+}

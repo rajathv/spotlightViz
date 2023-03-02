@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "22px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "230px"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s918f47f786b4145a0ce71b925c7b10d",
+    "_text_": "Apply",
+    "_width_": {
+        "type": "string",
+        "value": "60px"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s2298852c1d6475da8f5c3a9c70d0f64"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s918f47f786b4145a0ce71b925c7b10d",
+    "id": "btnApply",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e876096ac90f45e1aca63f5d440868b4",
+    "name": "kony.ui.Button",
+    "parent": "flxTransactionHistorySearch",
+    "pf": "frmCompanies",
+    "texti18n": "i18n.frmCustomerManagement.btnApply",
+    "wType": "Button",
+    "zindex": 10
+}

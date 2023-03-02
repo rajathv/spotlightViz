@@ -1,0 +1,14 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "LeadManagementManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "LeadManagementManager",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "LeadManagementManager/PresentationControllers/PresentationController",
+            "PresentationExtensions": []
+        }
+    }
+}

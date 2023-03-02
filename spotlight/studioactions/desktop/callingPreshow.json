@@ -1,0 +1,23 @@
+{
+    "AS_Form_gaca515675f34a6497fbc52392671b47": {
+        "id": "AS_Form_gaca515675f34a6497fbc52392671b47",
+        "type": "ACTION_SEQUENCE",
+        "name": "callingPreshow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "b51a3e787bab434086ec6008f220eb67"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_dc3cae98d91f4626910f2fb2d24fa530",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"calling preshow\");\n\nthis.preShow();",
+            "parentId": null
+        }]
+    }
+}

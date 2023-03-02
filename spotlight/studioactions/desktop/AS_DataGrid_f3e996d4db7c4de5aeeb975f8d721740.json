@@ -1,0 +1,22 @@
+{
+    "AS_DataGrid_f3e996d4db7c4de5aeeb975f8d721740": {
+        "id": "AS_DataGrid_f3e996d4db7c4de5aeeb975f8d721740",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmModifyUser",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e28c448940b1418c8b7b6d37edef3faf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowSelected_bd9f9a766eae43499a2c3f30c8741268",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onSelectedCellGrid();"
+        }]
+    }
+}

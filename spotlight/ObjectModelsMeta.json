@@ -1,0 +1,1028 @@
+{
+    "services": [
+        {
+            "serviceId": "eb16b577-9a6a-4e0a-9201-ea66c438a8a7",
+            "serviceName": "AccountRequestsObjService",
+            "serviceETag": "4fce057c-c6dd-41bf-b8c1-4c26402ffd6f",
+            "objects": [
+                {
+                    "objectId": "10108",
+                    "objectName": "CardRequests",
+                    "objectETag": "c1417e36-3084-4ed5-b1c8-7f0585b9325a"
+                },
+                {
+                    "objectId": "10109",
+                    "objectName": "TravelNotification",
+                    "objectETag": "0aadd37c-b324-4b92-8222-6cfb159792b4"
+                }
+            ]
+        },
+        {
+            "serviceId": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+            "serviceName": "AlertAndAlertTypes",
+            "serviceETag": "88a9427c-8460-4c9e-ba81-9ad4d31ecf3f",
+            "objects": [
+                {
+                    "objectId": "10020",
+                    "objectName": "alert",
+                    "objectETag": "90c12667-be90-4fbe-aacf-44b3c4d45422"
+                },
+                {
+                    "objectId": "10021",
+                    "objectName": "alertPreference",
+                    "objectETag": "dbf89ee7-a608-4b65-85fd-f486d75eecd2"
+                },
+                {
+                    "objectId": "10022",
+                    "objectName": "alertType",
+                    "objectETag": "99f4289a-33d7-4730-987b-6db8ee8dc2ac"
+                },
+                {
+                    "objectId": "10023",
+                    "objectName": "alertattribute",
+                    "objectETag": "4b2f08bc-7626-4356-b7f8-0b78d9c5963f"
+                },
+                {
+                    "objectId": "10024",
+                    "objectName": "alertcategory",
+                    "objectETag": "ec007744-785a-4486-bde2-c2ad952de830"
+                },
+                {
+                    "objectId": "10025",
+                    "objectName": "alertchannels",
+                    "objectETag": "c6e8a7e6-3f5a-42dc-9c05-7af710886fe1"
+                },
+                {
+                    "objectId": "10026",
+                    "objectName": "alertcondition",
+                    "objectETag": "989721f7-9ddb-44c9-9a01-59241776a0d3"
+                },
+                {
+                    "objectId": "10027",
+                    "objectName": "alertcontentfield",
+                    "objectETag": "91c08834-72d5-41db-b975-61a36b35c120"
+                },
+                {
+                    "objectId": "10028",
+                    "objectName": "alertfrequency",
+                    "objectETag": "cc0f6892-a8d0-4655-84f5-da90eaed3dd2"
+                },
+                {
+                    "objectId": "10029",
+                    "objectName": "alertrecipient",
+                    "objectETag": "8bae67e6-0100-442d-b224-289406edd11f"
+                },
+                {
+                    "objectId": "10030",
+                    "objectName": "alertsubtype",
+                    "objectETag": "1833fd66-8d49-4aa2-b9b7-17b9755e0073"
+                },
+                {
+                    "objectId": "10031",
+                    "objectName": "eventsubtype",
+                    "objectETag": "1666ddb3-e52d-4e13-8370-49d264117937"
+                },
+                {
+                    "objectId": "10032",
+                    "objectName": "eventtype",
+                    "objectETag": "16fd7bf6-2c0b-494a-bea4-04b4f87ee00c"
+                }
+            ]
+        },
+        {
+            "serviceId": "f030b266-84b3-446e-8961-99bae736aaff",
+            "serviceName": "AppConfigurationsObjService",
+            "serviceETag": "1ab79087-a17f-47c5-8b12-35c1af1fe649",
+            "objects": [
+                {
+                    "objectId": "10011",
+                    "objectName": "LoginType",
+                    "objectETag": "b70aad40-5463-4782-9b86-c5106f92cacc"
+                }
+            ]
+        },
+        {
+            "serviceId": "6b9303eb-141d-46ca-ad1c-957babf59b04",
+            "serviceName": "ApprovalMatrixManageObjService",
+            "serviceETag": "f7e61dd3-b25b-4deb-bed7-2bd81aa71206",
+            "objects": [
+                {
+                    "objectId": "9985",
+                    "objectName": "ApprovalMatrix",
+                    "objectETag": "a783039a-1fc1-4056-8423-bdd5c835b102"
+                }
+            ]
+        },
+        {
+            "serviceId": "c15ee00e-32cd-479e-83db-35e6b8909224",
+            "serviceName": "AuditLogsObjSvc",
+            "serviceETag": "8c903ea3-e172-4afd-a346-ccd46fbb5331",
+            "objects": [
+                {
+                    "objectId": "9948",
+                    "objectName": "LogView",
+                    "objectETag": "eb0d7601-b3f8-479f-aa3b-bcaf2d691fe0"
+                },
+                {
+                    "objectId": "9949",
+                    "objectName": "TransactionAndAuditLogs",
+                    "objectETag": "d9baa350-9911-401d-a7e6-6ebf0b3da9fb"
+                }
+            ]
+        },
+        {
+            "serviceId": "177edd06-e0c6-4824-bfa7-70338f431389",
+            "serviceName": "BankProductManagment",
+            "serviceETag": "c3da3b4d-b7d6-4118-9709-d86936a87bfc",
+            "objects": [
+                {
+                    "objectId": "9878",
+                    "objectName": "bankFacility",
+                    "objectETag": "52c0fefa-fc11-4a72-beb5-87812cabb82d"
+                },
+                {
+                    "objectId": "9879",
+                    "objectName": "bankProduct",
+                    "objectETag": "c01357dd-0b26-4a09-9ac2-58ec2f6e2051"
+                },
+                {
+                    "objectId": "9880",
+                    "objectName": "product",
+                    "objectETag": "b688fb7c-73f9-45db-bfab-47d43c8ff87d"
+                }
+            ]
+        },
+        {
+            "serviceId": "7eeb4536-a641-47f7-9ee2-f7142da50018",
+            "serviceName": "BrowserManagementObjService",
+            "serviceETag": "2f9e3796-c455-4e9a-9dcd-5a7034abd38d",
+            "objects": [
+                {
+                    "objectId": "9872",
+                    "objectName": "Browser",
+                    "objectETag": "3e47700d-e6df-4d6e-bd85-b4371596824b"
+                }
+            ]
+        },
+        {
+            "serviceId": "b9ccea17-f846-4ef1-b9b8-1f9fd84cbdab",
+            "serviceName": "BusinessBankingObjService",
+            "serviceETag": "0e9685b7-5460-4f89-8608-9b5f6674f473",
+            "objects": [
+                {
+                    "objectId": "9766",
+                    "objectName": "bbcustomerservicelimit",
+                    "objectETag": "fa2f9998-b590-4e66-a33a-d5be9f03341c"
+                },
+                {
+                    "objectId": "9767",
+                    "objectName": "businesstype",
+                    "objectETag": "af42f18a-5bc2-4a9f-bccf-98c2117cadd9"
+                },
+                {
+                    "objectId": "9768",
+                    "objectName": "company",
+                    "objectETag": "e83dc179-516b-415e-bb3a-9eaab348c7e1"
+                },
+                {
+                    "objectId": "9769",
+                    "objectName": "customer",
+                    "objectETag": "9742f3c1-29c6-4d8e-bb1a-711d8adf7c61"
+                },
+                {
+                    "objectId": "9770",
+                    "objectName": "servicedefinition",
+                    "objectETag": "fc3f197a-b604-477f-b0d2-2125c3adcd0b"
+                }
+            ]
+        },
+        {
+            "serviceId": "5d081603-a059-4d3d-896d-f396d3d2f2ff",
+            "serviceName": "BusinessConfigObjService",
+            "serviceETag": "61262444-3386-4c4e-8e60-d68737e21dbc",
+            "objects": [
+                {
+                    "objectId": "9733",
+                    "objectName": "AddressValidation",
+                    "objectETag": "e238d7a5-cfad-4358-acae-fb8c1820aeea"
+                },
+                {
+                    "objectId": "9734",
+                    "objectName": "EligibilityCriteria",
+                    "objectETag": "29b9d3a7-16fd-47ac-b094-527350b5c9f7"
+                },
+                {
+                    "objectId": "9735",
+                    "objectName": "OnboardingTermsAndConditions",
+                    "objectETag": "00816474-9aef-4af1-8bf4-3d7b268be01c"
+                },
+                {
+                    "objectId": "9736",
+                    "objectName": "businessconfiguration",
+                    "objectETag": "53ae63c5-889b-4393-9a6b-6c0b61d63b1d"
+                }
+            ]
+        },
+        {
+            "serviceId": "c85bd931-899b-4d90-88b4-b2c13d43aef4",
+            "serviceName": "CampaignManagementObjService",
+            "serviceETag": "a5d7301a-8e7e-4027-a7e3-009406ca7718",
+            "objects": [
+                {
+                    "objectId": "9666",
+                    "objectName": "attribute",
+                    "objectETag": "303f811e-8ba2-4a55-8897-f9a8c062d55e"
+                },
+                {
+                    "objectId": "9667",
+                    "objectName": "campaign",
+                    "objectETag": "8099100e-fbae-4abe-b67e-49cb67171654"
+                },
+                {
+                    "objectId": "9668",
+                    "objectName": "campaignmanagement",
+                    "objectETag": "1e678391-eef5-49fc-ae70-0e74bc580075"
+                },
+                {
+                    "objectId": "9669",
+                    "objectName": "channelandscreen",
+                    "objectETag": "a134fab4-ee3b-4ded-ba24-108ead0951d8"
+                },
+                {
+                    "objectId": "9670",
+                    "objectName": "defaultcampaign",
+                    "objectETag": "a577b9bc-8292-4318-8d69-f6ee281ca2b7"
+                },
+                {
+                    "objectId": "9671",
+                    "objectName": "group",
+                    "objectETag": "43855e5d-bf4d-413c-88e5-a66e4864da33"
+                },
+                {
+                    "objectId": "9672",
+                    "objectName": "profile",
+                    "objectETag": "58ad20f3-1447-485c-ad94-75285e1b73ad"
+                }
+            ]
+        },
+        {
+            "serviceId": "a2f16b4f-e640-448d-a8c6-23c13cad3a51",
+            "serviceName": "CardManagementObjService",
+            "serviceETag": "adfee22c-946f-4845-866a-2c50deabf099",
+            "objects": [
+                {
+                    "objectId": "9655",
+                    "objectName": "card",
+                    "objectETag": "279f67cc-11cc-4229-97f9-f3425509bda4"
+                },
+                {
+                    "objectId": "9656",
+                    "objectName": "cardSummary",
+                    "objectETag": "cd939a4b-4315-4684-9dfb-e1cd6ee89cd5"
+                }
+            ]
+        },
+        {
+            "serviceId": "27724efb-d341-4c7f-b98e-9ef99b60c35e",
+            "serviceName": "ConfigurationObjService",
+            "serviceETag": "84b794d2-dd33-4bb7-a53d-cfa3d922766e",
+            "objects": [
+                {
+                    "objectId": "9634",
+                    "objectName": "Config",
+                    "objectETag": "04971cbf-4f60-44e5-8ca1-9952e2a9158d"
+                },
+                {
+                    "objectId": "9635",
+                    "objectName": "Configuration",
+                    "objectETag": "d2f52977-7888-4381-b0d8-e624c76085b7"
+                }
+            ]
+        },
+        {
+            "serviceId": "fda48953-7539-4028-a968-95e722eae9ea",
+            "serviceName": "ContractManagementObjService",
+            "serviceETag": "cf655659-19c1-4f4e-8ad3-931906e2138a",
+            "objects": [
+                {
+                    "objectId": "9606",
+                    "objectName": "Contract",
+                    "objectETag": "1bf03a9d-479e-4a69-b8a8-2a10c6b97d39"
+                }
+            ]
+        },
+        {
+            "serviceId": "26d013a3-be41-44eb-bd19-21de31651138",
+            "serviceName": "CustomerGroupsAndEntitlObjSvc",
+            "serviceETag": "46d6c7eb-6ab5-458c-b247-9ccd204d6db7",
+            "objects": [
+                {
+                    "objectId": "9571",
+                    "objectName": "Group",
+                    "objectETag": "71a542e0-24ca-4b85-8e7e-59ed154cd0b0"
+                },
+                {
+                    "objectId": "9572",
+                    "objectName": "GroupCustomers",
+                    "objectETag": "fa984bb9-3543-4fb4-8965-ebe45693048c"
+                },
+                {
+                    "objectId": "9573",
+                    "objectName": "GroupEntitlements",
+                    "objectETag": "dc74cc83-9e09-4001-ab57-bde50a42486f"
+                },
+                {
+                    "objectId": "9574",
+                    "objectName": "GroupFeatures",
+                    "objectETag": "d8687eac-1478-4a36-99f6-0f3af17213f6"
+                },
+                {
+                    "objectId": "9575",
+                    "objectName": "GroupRecords",
+                    "objectETag": "af98e690-a70f-4bd1-ba2b-e83a75591fed"
+                },
+                {
+                    "objectId": "9576",
+                    "objectName": "Groups",
+                    "objectETag": "86ba9cca-ab46-4847-8cfe-5c7334b22017"
+                }
+            ]
+        },
+        {
+            "serviceId": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+            "serviceName": "CustomerManagementObjService",
+            "serviceETag": "dc74e464-6105-449c-8006-5aa9c7492017",
+            "objects": [
+                {
+                    "objectId": "9263",
+                    "objectName": "Applicant",
+                    "objectETag": "2af39d5b-cffe-4e4a-8c6f-16dbaf9bda9c"
+                },
+                {
+                    "objectId": "9264",
+                    "objectName": "Customer",
+                    "objectETag": "7ad749f4-53a5-4878-8853-10bc63d6ffaa"
+                },
+                {
+                    "objectId": "9265",
+                    "objectName": "CustomerActions",
+                    "objectETag": "46111364-c688-40a1-bcde-8290237b88d7"
+                },
+                {
+                    "objectId": "9266",
+                    "objectName": "CustomerActivity",
+                    "objectETag": "b07e42a6-9f91-46f9-aa69-d383d06e5b7a"
+                },
+                {
+                    "objectId": "9267",
+                    "objectName": "CustomerAndCustomerGroup",
+                    "objectETag": "ae89a43a-234a-43b0-a2d0-b92ed2880074"
+                },
+                {
+                    "objectId": "9268",
+                    "objectName": "CustomerContact",
+                    "objectETag": "e20ca4ad-c931-40db-b49f-e980bc53f9ee"
+                },
+                {
+                    "objectId": "9269",
+                    "objectName": "CustomerDevice",
+                    "objectETag": "0b8a3bd4-ef3a-4679-b736-fd6c0617ba3c"
+                },
+                {
+                    "objectId": "9270",
+                    "objectName": "CustomerEntitlement",
+                    "objectETag": "d4126cb3-9034-411e-a7a5-09534911cd3e"
+                },
+                {
+                    "objectId": "9271",
+                    "objectName": "CustomerGroup",
+                    "objectETag": "efdb632a-e4ad-46b4-95e8-e67b26a00717"
+                },
+                {
+                    "objectId": "9272",
+                    "objectName": "CustomerNotification",
+                    "objectETag": "7215e6a1-b3f3-48ed-94d2-4da4c33d2a69"
+                },
+                {
+                    "objectId": "9273",
+                    "objectName": "CustomerProduct",
+                    "objectETag": "7a5b1df9-9d52-439e-8c26-7f4052087fb5"
+                },
+                {
+                    "objectId": "9274",
+                    "objectName": "CustomerRequest",
+                    "objectETag": "b4d11c6c-4af3-4134-a7af-bee3dc930f1a"
+                },
+                {
+                    "objectId": "9275",
+                    "objectName": "CustomerSecurityQuestions",
+                    "objectETag": "cdfb1184-9ad8-4780-862b-3074c0eedba4"
+                },
+                {
+                    "objectId": "9276",
+                    "objectName": "DueDiligence",
+                    "objectETag": "b53758b0-58c7-4155-a514-bc9c2f7ad41e"
+                },
+                {
+                    "objectId": "9277",
+                    "objectName": "IdType",
+                    "objectETag": "cd8cc391-8d07-4129-babb-0c72567fe13d"
+                },
+                {
+                    "objectId": "9278",
+                    "objectName": "InfinityUser",
+                    "objectETag": "cb0778bd-c37c-4672-bbef-460854f13c99"
+                },
+                {
+                    "objectId": "9279",
+                    "objectName": "Note",
+                    "objectETag": "7fe64df7-9344-4976-91bf-364644e50402"
+                },
+                {
+                    "objectId": "9280",
+                    "objectName": "ProductTransaction",
+                    "objectETag": "dd5007c7-add9-4406-9264-a88bb5cd4ffd"
+                },
+                {
+                    "objectId": "9281",
+                    "objectName": "alerthistory",
+                    "objectETag": "9a33e7ef-bcde-4dd6-8a9d-1baff79d8da5"
+                }
+            ]
+        },
+        {
+            "serviceId": "76f3ae0d-a5de-4c9f-870c-f9a99669ffae",
+            "serviceName": "CustomReports",
+            "serviceETag": "94481ac2-b995-41f4-b844-6ad7cc2e257b",
+            "objects": [
+                {
+                    "objectId": "9236",
+                    "objectName": "DataSources",
+                    "objectETag": "e94dfeb8-d18d-46b0-ba60-71bbbd4c8396"
+                },
+                {
+                    "objectId": "9237",
+                    "objectName": "FabricReports",
+                    "objectETag": "12db40ac-be89-4b3e-88fc-7842bf7c7d69"
+                },
+                {
+                    "objectId": "9238",
+                    "objectName": "ReportFilters",
+                    "objectETag": "c5e05b07-81cc-4dde-a71c-ff6c9112aaa7"
+                },
+                {
+                    "objectId": "9239",
+                    "objectName": "Reports",
+                    "objectETag": "a19d10e6-a6bb-4ca5-987b-72da4fe4aac0"
+                },
+                {
+                    "objectId": "9240",
+                    "objectName": "ReportsList",
+                    "objectETag": "734bff54-6b81-4fb1-bd47-e5660fdec8e2"
+                }
+            ]
+        },
+        {
+            "serviceId": "32cf2082-5603-43e3-b156-99bbec221fcd",
+            "serviceName": "CustServiceObjService",
+            "serviceETag": "07302b98-9b55-4f65-9ab6-24158044050e",
+            "objects": [
+                {
+                    "objectId": "9213",
+                    "objectName": "ServiceAndServiceComm",
+                    "objectETag": "1935470d-1ebc-4d4d-a17a-e26daafaea76"
+                },
+                {
+                    "objectId": "9214",
+                    "objectName": "messageTemplate",
+                    "objectETag": "ea906f44-2489-49ef-8f5d-e15578a62690"
+                }
+            ]
+        },
+        {
+            "serviceId": "8cdcf214-7c1f-48ef-b8f5-5febb67f500e",
+            "serviceName": "DashboardObjService",
+            "serviceETag": "0119075c-b7c9-42da-b213-827a756230b3",
+            "objects": [
+                {
+                    "objectId": "9199",
+                    "objectName": "Analytics",
+                    "objectETag": "8d4c4aab-f820-448b-a76f-b31de050253e"
+                },
+                {
+                    "objectId": "9200",
+                    "objectName": "CustomerRequestSummary",
+                    "objectETag": "4155713a-aadb-4727-a239-e5e7f9d252f2"
+                },
+                {
+                    "objectId": "9201",
+                    "objectName": "dashboardalerts",
+                    "objectETag": "d24001da-1ec5-4aef-98d1-58235b867bfa"
+                }
+            ]
+        },
+        {
+            "serviceId": "d7cf5b08-0769-4b19-9677-fa89acdef0a6",
+            "serviceName": "dbxdbObjects",
+            "serviceETag": "46a304da-9b84-49ad-a1e0-1df0f75f9f05",
+            "objects": [
+                {
+                    "objectId": "9161",
+                    "objectName": "archivedmedia",
+                    "objectETag": "f1b65341-2a3f-4351-8ec0-9cbb51eba50f"
+                },
+                {
+                    "objectId": "9162",
+                    "objectName": "media",
+                    "objectETag": "6fa49fba-202b-4622-9e41-5b41d6054667"
+                }
+            ]
+        },
+        {
+            "serviceId": "9ac68b1c-3591-408a-bd4d-d227e6b55207",
+            "serviceName": "DecisionManagement",
+            "serviceETag": "5907fc9a-6853-4c5f-91c2-b3936cdbb64a",
+            "objects": [
+                {
+                    "objectId": "9140",
+                    "objectName": "decision",
+                    "objectETag": "1e2cdf97-4ee0-45f9-84f8-fad704fd2d6f"
+                }
+            ]
+        },
+        {
+            "serviceId": "79862663-7ef8-4b25-8b66-bd238e931d12",
+            "serviceName": "DMSUserCreationObjService",
+            "serviceETag": "8a572481-3bb3-4072-ac18-7c6bc0d0ec50",
+            "objects": [
+                {
+                    "objectId": "9134",
+                    "objectName": "DMSUser",
+                    "objectETag": "ad47c99d-8fb5-4275-9ddb-d3fc4dbac22b"
+                }
+            ]
+        },
+        {
+            "serviceId": "87dbb849-0e35-4e89-9543-2f18af7fec52",
+            "serviceName": "EmailObjService",
+            "serviceETag": "67a9a2d3-77e5-4f29-89c2-faa64f330ae3",
+            "objects": [
+                {
+                    "objectId": "9128",
+                    "objectName": "email",
+                    "objectETag": "7caf17ec-ccf0-470e-b5dd-c613567ba09b"
+                }
+            ]
+        },
+        {
+            "serviceId": "3aaa2ea9-f269-4df5-b2e3-2969f1834668",
+            "serviceName": "FeatureObjService",
+            "serviceETag": "94ee1a90-3a5a-4aaa-9cda-b0e4b5c2f73e",
+            "objects": [
+                {
+                    "objectId": "9098",
+                    "objectName": "feature",
+                    "objectETag": "a37e201b-cbc7-44b2-9a74-2e1ef4ce9782"
+                }
+            ]
+        },
+        {
+            "serviceId": "247e8282-fbb2-41be-9013-deb67de79641",
+            "serviceName": "IdentityManagementObjService",
+            "serviceETag": "eb90f215-19f9-4abb-b1b4-cbce8fab4912",
+            "objects": [
+                {
+                    "objectId": "9053",
+                    "objectName": "identitymanagement",
+                    "objectETag": "9a7b5ea7-d1f9-4b92-97b6-56bc0c69c20c"
+                }
+            ]
+        },
+        {
+            "serviceId": "4ab2a2c3-ef15-4486-a7d2-86337c96bcbc",
+            "serviceName": "InternalusersObjService",
+            "serviceETag": "a73c0168-afed-4827-a1c9-c02a7c2d62ce",
+            "objects": [
+                {
+                    "objectId": "9010",
+                    "objectName": "Branch",
+                    "objectETag": "3d7cbc5c-7d7c-4e47-b7df-03b956e83f4d"
+                },
+                {
+                    "objectId": "9011",
+                    "objectName": "LOB",
+                    "objectETag": "7156bd89-8aec-45fe-a921-ccf6215bba46"
+                },
+                {
+                    "objectId": "9012",
+                    "objectName": "Users",
+                    "objectETag": "676c213a-f225-4461-a196-a2baa537a05d"
+                },
+                {
+                    "objectId": "9013",
+                    "objectName": "city",
+                    "objectETag": "1be5eecc-f898-4c33-96e2-f9875e42ba69"
+                },
+                {
+                    "objectId": "9014",
+                    "objectName": "country",
+                    "objectETag": "2648d2d8-e6b4-4d00-93a7-8b5493141d2f"
+                },
+                {
+                    "objectId": "9015",
+                    "objectName": "createUser",
+                    "objectETag": "3e141b29-97a7-42d5-b9b6-27ecefd3821f"
+                },
+                {
+                    "objectId": "9016",
+                    "objectName": "internalUserProfile_view",
+                    "objectETag": "7a5b774a-3ff7-47cf-959d-648251a4d50b"
+                },
+                {
+                    "objectId": "9017",
+                    "objectName": "internalUsers_view",
+                    "objectETag": "6a5b0bf7-ea8d-4bc6-aa80-88a1583479bb"
+                },
+                {
+                    "objectId": "9018",
+                    "objectName": "region",
+                    "objectETag": "6c5fcc37-3696-43a2-9ffc-e7bfbeb75f5e"
+                }
+            ]
+        },
+        {
+            "serviceId": "c0e4b180-17d6-4a1d-a2a1-86bce3b89883",
+            "serviceName": "KeyCloakObjService",
+            "serviceETag": "8f9a3e9b-e960-4177-a370-59141debc581",
+            "objects": [
+                {
+                    "objectId": "9002",
+                    "objectName": "KeycloakUsers",
+                    "objectETag": "cfa86bc7-bb29-4173-85dc-09d689790eb3"
+                }
+            ]
+        },
+        {
+            "serviceId": "08eccf52-03ec-41a4-85ac-597255d3abf3",
+            "serviceName": "LeadAndApplicant",
+            "serviceETag": "022fbf2d-23b6-44fe-b6be-5d983d3ce5db",
+            "objects": [
+                {
+                    "objectId": "8970",
+                    "objectName": "lead",
+                    "objectETag": "c095b1cf-9825-476d-8fc9-c796b23e9740"
+                },
+                {
+                    "objectId": "8971",
+                    "objectName": "leadconfiguration",
+                    "objectETag": "acabd051-9ed3-4f25-b320-0df7c15ee2d3"
+                },
+                {
+                    "objectId": "8972",
+                    "objectName": "leadnote",
+                    "objectETag": "a2737792-b181-4574-afee-d30a2e146b5b"
+                },
+                {
+                    "objectId": "8973",
+                    "objectName": "leadproduct",
+                    "objectETag": "49f974df-9731-4d53-8eef-e39704d49794"
+                },
+                {
+                    "objectId": "8974",
+                    "objectName": "leadsummary",
+                    "objectETag": "daaac7e3-ce09-434e-9664-4dde9e112711"
+                }
+            ]
+        },
+        {
+            "serviceId": "3826e6e4-97ba-49bf-90f8-8eac5b42fc30",
+            "serviceName": "LocationObjService",
+            "serviceETag": "3776484f-2334-478b-aaeb-d4d262b0da51",
+            "objects": [
+                {
+                    "objectId": "8922",
+                    "objectName": "LocationObject",
+                    "objectETag": "4af28baa-3fa4-486f-8b61-11c601af22bb"
+                },
+                {
+                    "objectId": "8923",
+                    "objectName": "LocationServicesObject",
+                    "objectETag": "7a9446b7-4ae4-47e9-9379-1981e3be327d"
+                },
+                {
+                    "objectId": "8924",
+                    "objectName": "LocationsUsingCSV",
+                    "objectETag": "50c753ab-245a-46da-a545-e436134fb37f"
+                },
+                {
+                    "objectId": "8925",
+                    "objectName": "currency",
+                    "objectETag": "072c2f96-7c6a-4667-80c1-f6d5b2cc09c7"
+                },
+                {
+                    "objectId": "8926",
+                    "objectName": "facility",
+                    "objectETag": "896b5084-079c-4b4e-b86e-a7cea829afe6"
+                }
+            ]
+        },
+        {
+            "serviceId": "4e594eba-cb24-4560-afad-73fbff699c84",
+            "serviceName": "ManageLimitsAndFees",
+            "serviceETag": "5f7516ca-7c0f-43e4-a07f-04a2e4b30b86",
+            "objects": [
+                {
+                    "objectId": "8860",
+                    "objectName": "overallPaymentLimits",
+                    "objectETag": "69a50eca-396e-4a32-bbf6-6cc85d5728c5"
+                },
+                {
+                    "objectId": "8861",
+                    "objectName": "period",
+                    "objectETag": "48ca0f3e-c8fa-4d8c-bce3-4b6b52a43c4d"
+                },
+                {
+                    "objectId": "8862",
+                    "objectName": "periodLimitEndUser",
+                    "objectETag": "48361e48-7745-46cf-ae9a-02f5d4fadaf9"
+                },
+                {
+                    "objectId": "8863",
+                    "objectName": "periodLimitService",
+                    "objectETag": "2b818a09-7bc8-4bdc-94b2-a87bd2abe1f6"
+                },
+                {
+                    "objectId": "8864",
+                    "objectName": "periodLimitUserGroup",
+                    "objectETag": "5ef35f0b-fc71-4e76-a9fd-574e0b9a4785"
+                },
+                {
+                    "objectId": "8865",
+                    "objectName": "transactionFeesEndUser",
+                    "objectETag": "b3466db5-b2bb-4698-8c4a-5b32149c21e2"
+                },
+                {
+                    "objectId": "8866",
+                    "objectName": "transferFeeGroup",
+                    "objectETag": "eb80390a-24fc-48f4-9a8c-5f6821cfbd61"
+                },
+                {
+                    "objectId": "8867",
+                    "objectName": "transferFeeService",
+                    "objectETag": "0740f7ae-55f3-481c-beac-9f2b7c62e9b4"
+                },
+                {
+                    "objectId": "8868",
+                    "objectName": "validateTransactionLimit",
+                    "objectETag": "b9a752c8-9393-41c0-a699-d33edb23a350"
+                }
+            ]
+        },
+        {
+            "serviceId": "ec120b69-988a-472f-a4fc-13da37404776",
+            "serviceName": "MasterDataObjService",
+            "serviceETag": "bcd385bb-c6e3-4bc8-8a7f-adc10bf2830f",
+            "objects": [
+                {
+                    "objectId": "8836",
+                    "objectName": "accounttype",
+                    "objectETag": "e45a2000-2ca2-4286-bef7-a234f250ca0f"
+                },
+                {
+                    "objectId": "8837",
+                    "objectName": "app",
+                    "objectETag": "b5e77b43-acec-4f18-a57c-6534f6dcfc7f"
+                },
+                {
+                    "objectId": "8838",
+                    "objectName": "countrycode",
+                    "objectETag": "a93208dc-5938-4f87-862b-dae32827b17d"
+                },
+                {
+                    "objectId": "8839",
+                    "objectName": "customertype",
+                    "objectETag": "c34804e7-87b6-450d-8d4d-bb18a48845d9"
+                },
+                {
+                    "objectId": "8840",
+                    "objectName": "locale",
+                    "objectETag": "8351f2b3-442e-4e22-9d3f-ecf2d1299c38"
+                },
+                {
+                    "objectId": "8841",
+                    "objectName": "systemconfiguration",
+                    "objectETag": "50bdf364-7f8b-4e6c-89e9-1c39a7cc363c"
+                }
+            ]
+        },
+        {
+            "serviceId": "3b9a5a34-a41a-448e-aa94-1f3ea318a917",
+            "serviceName": "MFAObjService",
+            "serviceETag": "1adbe9b5-e623-48d0-aa96-d4d6a74af87a",
+            "objects": [
+                {
+                    "objectId": "8802",
+                    "objectName": "mfaconfigandscenarios",
+                    "objectETag": "146db6b8-48d9-4852-85b4-39a7c4b7bfc0"
+                }
+            ]
+        },
+        {
+            "serviceId": "f08d5c95-bc12-4a9d-8970-7264052da82e",
+            "serviceName": "ReportsObjService",
+            "serviceETag": "86bbdcb0-b913-4ed7-be4a-1664d77d41e7",
+            "objects": [
+                {
+                    "objectId": "8774",
+                    "objectName": "MessagesReport",
+                    "objectETag": "c00d5f91-2011-43e1-9840-219f02386d9c"
+                },
+                {
+                    "objectId": "8775",
+                    "objectName": "ReportsInfo",
+                    "objectETag": "2fcd7548-47ac-4c68-ba20-a48bb75e0e19"
+                },
+                {
+                    "objectId": "8776",
+                    "objectName": "TransactionReport",
+                    "objectETag": "fde7245f-8069-4088-9e69-1e0f63796b4d"
+                },
+                {
+                    "objectId": "8777",
+                    "objectName": "report",
+                    "objectETag": "d0eabe9b-391f-460a-8f85-435309a37e46"
+                }
+            ]
+        },
+        {
+            "serviceId": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+            "serviceName": "RolesAndPermissionsObjService",
+            "serviceETag": "4b648e7e-92ee-461e-b103-79d9e7469a29",
+            "objects": [
+                {
+                    "objectId": "8706",
+                    "objectName": "DirectAndIndirectPermissionUsers",
+                    "objectETag": "f01b5e67-3047-4bf7-b3e1-238076c32cd8"
+                },
+                {
+                    "objectId": "8707",
+                    "objectName": "PermissionObject",
+                    "objectETag": "259e8be3-d890-4b8c-940b-800700f9e449"
+                },
+                {
+                    "objectId": "8708",
+                    "objectName": "managePermissions",
+                    "objectETag": "52a4af8b-a721-4138-8c41-43bdbd3efbb6"
+                },
+                {
+                    "objectId": "8709",
+                    "objectName": "permissions_view",
+                    "objectETag": "6cd7e219-7eb4-4a39-9514-3af0c174a8c0"
+                },
+                {
+                    "objectId": "8710",
+                    "objectName": "role",
+                    "objectETag": "c2078c76-dc94-464d-bed9-6cae772f679d"
+                },
+                {
+                    "objectId": "8711",
+                    "objectName": "role_view",
+                    "objectETag": "5a5c1b46-974d-494c-98ec-6c81a55c101e"
+                },
+                {
+                    "objectId": "8712",
+                    "objectName": "rolepermission_view",
+                    "objectETag": "0d402dc2-5d9e-49f0-8e83-b1fd500ac225"
+                },
+                {
+                    "objectId": "8713",
+                    "objectName": "roleuser_view",
+                    "objectETag": "8e79109f-4e5e-49a3-91db-aeda80ec124a"
+                },
+                {
+                    "objectId": "8714",
+                    "objectName": "status",
+                    "objectETag": "de8247fa-bf9e-4d9c-a025-163f942649d2"
+                },
+                {
+                    "objectId": "8715",
+                    "objectName": "systemuser_view",
+                    "objectETag": "5c0e3777-ed5d-4e7e-97d3-526da8d0e486"
+                },
+                {
+                    "objectId": "8716",
+                    "objectName": "userRole",
+                    "objectETag": "69bd2b3d-2f25-4a8b-b8fa-a748f2261054"
+                },
+                {
+                    "objectId": "8717",
+                    "objectName": "userdirectpermission_view",
+                    "objectETag": "380296f6-df47-4ef9-a83d-e247f360ef12"
+                }
+            ]
+        },
+        {
+            "serviceId": "5ef013ee-9355-42bb-9d68-89d7a65cfa74",
+            "serviceName": "SecurityOpsObjService",
+            "serviceETag": "57f190e0-4fe1-4a6f-b94b-22005ab2e1d0",
+            "objects": [
+                {
+                    "objectId": "8684",
+                    "objectName": "manageSecurityImages",
+                    "objectETag": "2867f34d-3a27-4adc-8bac-5dd7245d0bff"
+                },
+                {
+                    "objectId": "8685",
+                    "objectName": "manageSecurityQuestions",
+                    "objectETag": "3a528d5e-bba0-4591-8ebf-fd89f247103a"
+                }
+            ]
+        },
+        {
+            "serviceId": "2f9cf864-b62e-47f4-ba89-fd8b8eca5790",
+            "serviceName": "ServerManagementObjService",
+            "serviceETag": "a16ad017-028b-4d5f-940c-b0840f27e35f",
+            "objects": [
+                {
+                    "objectId": "8668",
+                    "objectName": "address",
+                    "objectETag": "0d553b54-bab2-4c84-a980-575eb8a8fbd5"
+                },
+                {
+                    "objectId": "8669",
+                    "objectName": "maplocation",
+                    "objectETag": "21b8616e-ec92-4eab-8370-6a40d3a77d81"
+                },
+                {
+                    "objectId": "8670",
+                    "objectName": "server",
+                    "objectETag": "6cbb2509-b6aa-448c-9e0f-a2099f6e42e1"
+                }
+            ]
+        },
+        {
+            "serviceId": "d16b3412-53a6-47ad-9003-487b852108d3",
+            "serviceName": "SignatoryGroupManageObjService",
+            "serviceETag": "8f51b599-d139-4038-a002-06d94e2fdff3",
+            "objects": [
+                {
+                    "objectId": "8639",
+                    "objectName": "ApprovalMode",
+                    "objectETag": "61b6350e-964f-4c68-9a38-15c56cbb807a"
+                },
+                {
+                    "objectId": "8640",
+                    "objectName": "SignatoryGroup",
+                    "objectETag": "41c3dca8-17f4-4104-a001-1a0ea05f45d6"
+                }
+            ]
+        },
+        {
+            "serviceId": "4370ee2e-d604-485e-94fd-4a88c9c9cc51",
+            "serviceName": "StaticContentObjService",
+            "serviceETag": "75509fb8-3fad-40d6-b907-7f92173d89e3",
+            "objects": [
+                {
+                    "objectId": "8566",
+                    "objectName": "frequentlyAskedQuestions",
+                    "objectETag": "f0575b58-6bf5-49cb-bf09-d3192511a6bf"
+                },
+                {
+                    "objectId": "8567",
+                    "objectName": "outageMessage",
+                    "objectETag": "e6a865de-84bc-4708-b822-3b17ae411b8b"
+                },
+                {
+                    "objectId": "8568",
+                    "objectName": "privacyPolicy",
+                    "objectETag": "432b7dc4-37ba-456f-988e-e1eaf1c646ef"
+                },
+                {
+                    "objectId": "8569",
+                    "objectName": "service",
+                    "objectETag": "161c1252-622a-4cb5-bdd1-6def239a4ba3"
+                },
+                {
+                    "objectId": "8570",
+                    "objectName": "termsAndConditions",
+                    "objectETag": "27b9202e-361c-44c8-be0d-e70802bccb9f"
+                }
+            ]
+        },
+        {
+            "serviceId": "baa42bf7-72c2-4605-adcc-9ed899f5b040",
+            "serviceName": "TermsAndConditionsObjService",
+            "serviceETag": "f4f502dc-43a8-42de-9fc2-32a1196a2b81",
+            "objects": [
+                {
+                    "objectId": "8552",
+                    "objectName": "termsandconditions",
+                    "objectETag": "da0af463-a64c-4b48-a241-099e66788168"
+                }
+            ]
+        }
+    ],
+    "appInfo": {
+        "serviceDocEtag": "00000186264E3CB8"
+    }
+}

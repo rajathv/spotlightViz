@@ -1,0 +1,92 @@
+{
+    "HEAD": "w66bb55ccf8f402eba59526afd91f69a",
+    "w225fa25c65f473ebf021214887c2b1f": {
+        "extension": "svg",
+        "kuid": "w225fa25c65f473ebf021214887c2b1f",
+        "name": "icomoon.svg",
+        "parent": "w5684b40eee244f298bab89390daa61a",
+        "type": "F"
+    },
+    "w24eec7b8906403fbadb4be099b0492f": {
+        "extension": "woff",
+        "kuid": "w24eec7b8906403fbadb4be099b0492f",
+        "name": "icomoon.woff",
+        "parent": "w5684b40eee244f298bab89390daa61a",
+        "type": "F"
+    },
+    "w44184c32d8f46fba5fb4e8d9596ebaa": {
+        "children": [
+            "w5684b40eee244f298bab89390daa61a",
+            "wf9ccf0cbf4348f183c3870f3338472f"
+        ],
+        "kuid": "w44184c32d8f46fba5fb4e8d9596ebaa",
+        "name": "font_icons",
+        "parent": "w66bb55ccf8f402eba59526afd91f69a",
+        "type": "D"
+    },
+    "w5684b40eee244f298bab89390daa61a": {
+        "children": [
+            "wbfd9f57eb464084a16d190ef3343d14",
+            "w225fa25c65f473ebf021214887c2b1f",
+            "we9881f91372455aa7377b615fe634ab",
+            "w24eec7b8906403fbadb4be099b0492f"
+        ],
+        "kuid": "w5684b40eee244f298bab89390daa61a",
+        "name": "fonts",
+        "parent": "w44184c32d8f46fba5fb4e8d9596ebaa",
+        "type": "D"
+    },
+    "w5c6aef406834b689bffec67847f8780": {
+        "extension": "js",
+        "kuid": "w5c6aef406834b689bffec67847f8780",
+        "name": "richtextJquery.js",
+        "parent": "w66bb55ccf8f402eba59526afd91f69a",
+        "type": "F"
+    },
+    "w66bb55ccf8f402eba59526afd91f69a": {
+        "children": [
+            "w44184c32d8f46fba5fb4e8d9596ebaa",
+            "wb5564ebecd04c988cc3af90c88336d2",
+            "w5c6aef406834b689bffec67847f8780",
+            "wb52733f9811403bbee89e3996cffb0e"
+        ],
+        "kuid": "w66bb55ccf8f402eba59526afd91f69a",
+        "name": "localfiles",
+        "type": "L"
+    },
+    "wb52733f9811403bbee89e3996cffb0e": {
+        "extension": "html",
+        "kuid": "wb52733f9811403bbee89e3996cffb0e",
+        "name": "richtextViewer.html",
+        "parent": "w66bb55ccf8f402eba59526afd91f69a",
+        "type": "F"
+    },
+    "wb5564ebecd04c988cc3af90c88336d2": {
+        "extension": "html",
+        "kuid": "wb5564ebecd04c988cc3af90c88336d2",
+        "name": "richtext.html",
+        "parent": "w66bb55ccf8f402eba59526afd91f69a",
+        "type": "F"
+    },
+    "wbfd9f57eb464084a16d190ef3343d14": {
+        "extension": "eot",
+        "kuid": "wbfd9f57eb464084a16d190ef3343d14",
+        "name": "icomoon.eot",
+        "parent": "w5684b40eee244f298bab89390daa61a",
+        "type": "F"
+    },
+    "we9881f91372455aa7377b615fe634ab": {
+        "extension": "ttf",
+        "kuid": "we9881f91372455aa7377b615fe634ab",
+        "name": "icomoon.ttf",
+        "parent": "w5684b40eee244f298bab89390daa61a",
+        "type": "F"
+    },
+    "wf9ccf0cbf4348f183c3870f3338472f": {
+        "extension": "css",
+        "kuid": "wf9ccf0cbf4348f183c3870f3338472f",
+        "name": "style.css",
+        "parent": "w44184c32d8f46fba5fb4e8d9596ebaa",
+        "type": "F"
+    }
+}

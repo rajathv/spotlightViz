@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40px"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "22px"
+    },
+    "_skin_": "s3c60f327c994b9595aae04de642fdbe",
+    "_text_": "Submit",
+    "_width_": {
+        "type": "string",
+        "value": "150px"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s7db9565c1ce4ed8bc9c274c79bb2eca"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s3c60f327c994b9595aae04de642fdbe",
+    "id": "btnOtpSubmit",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e90d01afa57b49ceb346b45b9b1464cb",
+    "minwidth": {
+        "type": "string",
+        "value": "100px"
+    },
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxSubmitOtp",
+    "pf": "frmCounterSign",
+    "wType": "Button",
+    "zindex": 20
+}

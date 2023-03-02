@@ -1,0 +1,146 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "48dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s236cef409fb42b8a9690344e37ac553",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "flxClearSearchImage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c4c81ee4b1994009906ecc4cc165c0e5",
+                "srcKUID": "d5fa1fe0b8df4dc88da1fb9c1cc109d4",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxMenu": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f05a28d648b747d58da7a9def688e707",
+                "srcKUID": "d69af681a5b043b59258497c8bf4de80",
+                "wType": "FlexContainer"
+            },
+            "isVisible": false
+        },
+        "flxSearch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ie1a1b8996344c7da051a4608285ca9e",
+                "srcKUID": "c8397c48f8fe4b758a72e50699c1383e",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a11de1b377d84dfa8804a2a3a5f04156",
+                "srcKUID": "f2c45a126e844667bda14ad3d83009e4",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSubHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e0511e343ffe4602bc011bcb2a097770",
+                "srcKUID": "h9164354ac8d4fdba73c54494c3ca15c",
+                "wType": "FlexContainer"
+            }
+        },
+        "fontIconCross": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fd7bf8d8923a405abd7f1eaa39449ee7",
+                "srcKUID": "c00fcb7c57884242a6b19f90da4fc926",
+                "wType": "Label"
+            }
+        },
+        "fontIconSearchImg": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hc0befe1bfd340d7af9e6098090a3b93",
+                "srcKUID": "e0cab33f475f4edc80682504e43f6456",
+                "wType": "Label"
+            }
+        },
+        "lblRecords": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dd96001ffbfa4be48a25896af67288f0",
+                "srcKUID": "b2c0b2ef982f466296ffcc5e6c27bdba",
+                "wType": "Label"
+            }
+        },
+        "lbxPageNumbers": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ce475fd5d72d4eacb14c393bfdeb42af",
+                "srcKUID": "e740cc4c33bc4c159a021bebd5f76924",
+                "wType": "ListBox"
+            }
+        },
+        "subHeader": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "b51832feeee3400e87f7ec29cf685868",
+                "srcKUID": "d58a9887d7c34a8b81ed6f04b08810ea",
+                "wType": "FlexContainer"
+            }
+        },
+        "tbxSearchBox": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bbf067f996384813a48a5b6a759fbf77",
+                "srcKUID": "ced686da45754d2e859a31b958148437",
+                "wType": "TextField"
+            }
+        }
+    },
+    "id": "subHeader",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "b19890d39a004c3f81f379dba7cbd182",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxMainSubHeader",
+    "pf": "frmRoles",
+    "snaptogrid": true,
+    "sourceUserWidget": "d58a9887d7c34a8b81ed6f04b08810ea",
+    "wType": "UserWidgetInstance"
+}

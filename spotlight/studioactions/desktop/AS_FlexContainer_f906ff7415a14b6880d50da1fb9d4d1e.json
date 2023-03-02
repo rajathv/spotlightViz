@@ -1,0 +1,43 @@
+{
+    "AS_FlexContainer_f906ff7415a14b6880d50da1fb9d4d1e": {
+        "id": "AS_FlexContainer_f906ff7415a14b6880d50da1fb9d4d1e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "b51a3e787bab434086ec6008f220eb67"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "IF_CONDITION_d808f10ebe344acfa59e1df03e9418d9",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValue": "[640].indexOf(kony.application.getCurrentBreakpoint()) !== -1",
+                "leftValueType": "expression"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__onClick_g0a5cf22bfba404ca025fb69f5bc8aed",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "b51a3e787bab434086ec6008f220eb67",
+            "widgetKUID": "g152da8532824067a2cda7757efc4c9e",
+            "isSkinProperty": false,
+            "forkedPlatform": "all",
+            "parentId": "IF_CONDITION_d808f10ebe344acfa59e1df03e9418d9"
+        }, {
+            "id": "ADD_SNIPPET_onClick_c05c061a8da442d79f3557e41616e56d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "self.view.forceLayout();",
+            "parentId": "IF_CONDITION_d808f10ebe344acfa59e1df03e9418d9"
+        }]
+    }
+}

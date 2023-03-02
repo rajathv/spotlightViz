@@ -1,0 +1,22 @@
+{
+    "AS_Form_be4b2a58ca904f08a58a964264005e69": {
+        "id": "AS_Form_be4b2a58ca904f08a58a964264005e69",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmResetUser",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f50ab033ce3a479191cffc478739a17d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_c1104f13fd844221be93fa4750e73c71",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preshow();"
+        }]
+    }
+}

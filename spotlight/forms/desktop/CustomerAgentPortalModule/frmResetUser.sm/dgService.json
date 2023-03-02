@@ -1,0 +1,190 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTable",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "col1": "RC 11",
+            "col2": "RC 12dfggdgdgdgdgdgdgdgdgdgdgdgdgdgdgdgdgdgdgdgdgfgdfgdfgdfgdfgdfgdfgdfgdfgdgdfgdfgdfgdf",
+            "col3": "RC 13",
+            "col4": "",
+            "col5": ""
+        },
+        {
+            "col1": "RC 21",
+            "col2": "RC 22",
+            "col3": "RC 23",
+            "col4": "",
+            "col5": ""
+        },
+        {
+            "col1": "RC 31",
+            "col2": "RC 32",
+            "col3": "RC 33",
+            "col4": "",
+            "col5": ""
+        },
+        {
+            "col1": "RC 41",
+            "col2": "RC 42",
+            "col3": "RC 43",
+            "col4": "",
+            "col5": ""
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "cellBorder": "1px solid #F4F4F4",
+    "columnheadersconfig": [
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "Sr.",
+            "columnHeaderType": "text",
+            "columnID": "col1",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 10,
+            "ide_onClick": null,
+            "isColumnSortable": false,
+            "kuid": "dc373ff31a9e45189949ea91522a1422"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "Service",
+            "columnHeaderType": "text",
+            "columnID": "col2",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 20,
+            "ide_onClick": null,
+            "isColumnSortable": false,
+            "kuid": "f0a5301472e141dd84096b741103a4da"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "Mora Request",
+            "columnHeaderType": "text",
+            "columnID": "col3",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 29,
+            "ide_onClick": null,
+            "isColumnSortable": false,
+            "kuid": "c374608be9a34521b287c9724e9e50c1"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "Third party Response",
+            "columnHeaderType": "text",
+            "columnID": "col4",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 29,
+            "ide_onClick": null,
+            "isColumnSortable": false,
+            "kuid": "dc6ecb47a95d4f15aed7ec57ed77b1f3"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "Date",
+            "columnHeaderType": "text",
+            "columnID": "col5",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 12,
+            "ide_onClick": null,
+            "isColumnSortable": false,
+            "kuid": "d72f365674f546f2a68e2c2e74be7682"
+        }
+    ],
+    "columnids": [
+        "col1",
+        "col2",
+        "col3",
+        "col4",
+        "col5"
+    ],
+    "columntype": [
+        "text",
+        "text",
+        "text",
+        "text",
+        "text"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "counter": "34",
+    "crInstance": null,
+    "desktopweb": {
+        "psp": {
+            "dockingHeader": false,
+            "enableScrollBar": 1
+        }
+    },
+    "dockingheader": false,
+    "enablescrollbar": 1,
+    "focusedindex": null,
+    "focuseditem": null,
+    "gridlinestyle": "solid",
+    "headerskin": "s105d4b275e2458e8fa8806a40becb47",
+    "id": "dgService",
+    "ide_onRowSelected": "AS_DataGrid_fe1b244d450e4bdcb831104b706cda13",
+    "info": null,
+    "iscustomlayout": false,
+    "ismultiselect": false,
+    "isvisible": true,
+    "kuid": "h1d083f6eebd41b1b78b48b99428bc6b",
+    "name": "kony.ui.DataGrid",
+    "parent": "flxServiceGrid",
+    "pf": "frmResetUser",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "rowalternateskin": "sa8e3795d7414d629895823859b5bc5f",
+    "rowcount": 4,
+    "rowfocusskin": "s319862bc3c44befb2cbe644e2aeeaeb",
+    "rownormalskin": "s6b7a84e123d4df78fb302be5860d0d2",
+    "selectedcellindex": null,
+    "selectedcellitem": null,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditem": null,
+    "selecteditems": null,
+    "showcolumnheaders": true,
+    "wType": "DataGrid"
+}

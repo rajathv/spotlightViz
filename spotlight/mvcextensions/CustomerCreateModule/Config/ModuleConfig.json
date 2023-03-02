@@ -1,0 +1,34 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "CustomerCreateModule/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {
+        "desktop": {
+            "frmCustomerCreate": {
+                "Controller": "CustomerCreateModule/frmCustomerCreateController",
+                "ControllerExtensions": [
+                    "Navigation_Form_Extn",
+                    "TabUtil_FormExtn",
+                    "AdminConsoleCommonUtilities",
+                    "DateTimeUtils_FormExtn",
+                    "Sorting_FormExtn"
+                ],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "CustomerCreateModule/frmCustomerCreate",
+                "friendlyName": "frmCustomerCreate"
+            }
+        }
+    },
+    "ModuleName": "CustomerCreateModule",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "CustomerCreateModule/PresentationControllers/PresentationController",
+            "PresentationExtensions": [
+                "Navigation_Presentation_Extn",
+                "WidgetPermission_Checker_FormExtns",
+                "Sorting_FormExtn"
+            ]
+        }
+    }
+}

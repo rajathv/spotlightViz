@@ -1,0 +1,135 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s8ff24328417401b877c3ceb2a5fa27c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "NotificationFlagMessage": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ab79cd4d6bad4f03baebdf15eb7c0fb2",
+                "srcKUID": "efd7810257a2499994f297571e3888ff",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "20dp"
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "20dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            }
+        },
+        "flxFlagContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a4254f330e104552881e6e8664cbc880",
+                "srcKUID": "a06d730b332f41a89a273bc9a2d38b8c",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxIconContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ef5610aa2a954c6cbcbb81343c9eb3ef",
+                "srcKUID": "b333ffb4a90648d58eedcce08e6b0e07",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblMessage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a9e90ab53698458daf31697e26ca6d5b",
+                "srcKUID": "d549b073ba254cb3ad8ab54456248f33",
+                "wType": "Label"
+            },
+            "i18n_text": "i18n.contracts.multiCustomerNotif",
+            "text": "This Contract is associated with multiple customers"
+        },
+        "lblNotificationIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "geca2acad1d642d99bc89593caaad84e",
+                "srcKUID": "b460c4d5b4a944409edd9bf356356e36",
+                "wType": "Label"
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": "45%"
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": "45%"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "NotificationFlagMessage",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "ab79cd4d6bad4f03baebdf15eb7c0fb2",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxContractNotification",
+    "pf": "frmCompanies",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "efd7810257a2499994f297571e3888ff",
+    "wType": "UserWidgetInstance"
+}

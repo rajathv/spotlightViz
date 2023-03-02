@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40px"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        3,
+        1,
+        3,
+        1
+    ],
+    "_skin_": "s3c60f327c994b9595aae04de642fdbe",
+    "_text_": "Continue",
+    "_top_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s7db9565c1ce4ed8bc9c274c79bb2eca"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s3c60f327c994b9595aae04de642fdbe",
+    "id": "btnContinue",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b2f4c3bfe7644847a9d6d92f3a81789d",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxUserCreated",
+    "pf": "frmCreateRetailer",
+    "wType": "Button",
+    "zindex": 2
+}

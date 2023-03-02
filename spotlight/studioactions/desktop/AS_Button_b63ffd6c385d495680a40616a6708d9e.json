@@ -1,0 +1,19 @@
+{
+    "AS_Button_b63ffd6c385d495680a40616a6708d9e": {
+        "id": "AS_Button_b63ffd6c385d495680a40616a6708d9e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_f35e4680708b44fabc40006669c02e38",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.executeOnParent(\"viewMoreDetails\", context.rowIndex);"
+        }]
+    }
+}

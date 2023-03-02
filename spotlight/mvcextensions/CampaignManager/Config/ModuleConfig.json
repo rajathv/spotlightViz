@@ -1,0 +1,14 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "CampaignManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "CampaignManager",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "CampaignManager/PresentationControllers/PresentationController",
+            "PresentationExtensions": []
+        }
+    }
+}

@@ -1,0 +1,1059 @@
+{
+    "AccountRequestsObjService_CardRequests": {
+        "servicename": "AccountRequestsObjService",
+        "serviceid": "eb16b577-9a6a-4e0a-9201-ea66c438a8a7",
+        "type": "objectsvcs",
+        "objectname": "CardRequests",
+        "objectid": "10108"
+    },
+    "AccountRequestsObjService_TravelNotification": {
+        "servicename": "AccountRequestsObjService",
+        "serviceid": "eb16b577-9a6a-4e0a-9201-ea66c438a8a7",
+        "type": "objectsvcs",
+        "objectname": "TravelNotification",
+        "objectid": "10109"
+    },
+    "AlertAndAlertTypes_alert": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "alert",
+        "objectid": "10020"
+    },
+    "AlertAndAlertTypes_alertPreference": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "alertPreference",
+        "objectid": "10021"
+    },
+    "AlertAndAlertTypes_alertType": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "alertType",
+        "objectid": "10022"
+    },
+    "AlertAndAlertTypes_alertattribute": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "alertattribute",
+        "objectid": "10023"
+    },
+    "AlertAndAlertTypes_alertcategory": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "alertcategory",
+        "objectid": "10024"
+    },
+    "AlertAndAlertTypes_alertchannels": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "alertchannels",
+        "objectid": "10025"
+    },
+    "AlertAndAlertTypes_alertcondition": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "alertcondition",
+        "objectid": "10026"
+    },
+    "AlertAndAlertTypes_alertcontentfield": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "alertcontentfield",
+        "objectid": "10027"
+    },
+    "AlertAndAlertTypes_alertfrequency": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "alertfrequency",
+        "objectid": "10028"
+    },
+    "AlertAndAlertTypes_alertrecipient": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "alertrecipient",
+        "objectid": "10029"
+    },
+    "AlertAndAlertTypes_alertsubtype": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "alertsubtype",
+        "objectid": "10030"
+    },
+    "AlertAndAlertTypes_eventsubtype": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "eventsubtype",
+        "objectid": "10031"
+    },
+    "AlertAndAlertTypes_eventtype": {
+        "servicename": "AlertAndAlertTypes",
+        "serviceid": "9ce42b6f-2eba-4ba3-85b5-e276de911498",
+        "type": "objectsvcs",
+        "objectname": "eventtype",
+        "objectid": "10032"
+    },
+    "AppConfigurationsObjService_LoginType": {
+        "servicename": "AppConfigurationsObjService",
+        "serviceid": "f030b266-84b3-446e-8961-99bae736aaff",
+        "type": "objectsvcs",
+        "objectname": "LoginType",
+        "objectid": "10011"
+    },
+    "ApprovalMatrixManageObjService_ApprovalMatrix": {
+        "servicename": "ApprovalMatrixManageObjService",
+        "serviceid": "6b9303eb-141d-46ca-ad1c-957babf59b04",
+        "type": "objectsvcs",
+        "objectname": "ApprovalMatrix",
+        "objectid": "9985"
+    },
+    "AuditLogsObjSvc_LogView": {
+        "servicename": "AuditLogsObjSvc",
+        "serviceid": "c15ee00e-32cd-479e-83db-35e6b8909224",
+        "type": "objectsvcs",
+        "objectname": "LogView",
+        "objectid": "9948"
+    },
+    "AuditLogsObjSvc_TransactionAndAuditLogs": {
+        "servicename": "AuditLogsObjSvc",
+        "serviceid": "c15ee00e-32cd-479e-83db-35e6b8909224",
+        "type": "objectsvcs",
+        "objectname": "TransactionAndAuditLogs",
+        "objectid": "9949"
+    },
+    "BankProductManagment_bankFacility": {
+        "servicename": "BankProductManagment",
+        "serviceid": "177edd06-e0c6-4824-bfa7-70338f431389",
+        "type": "objectsvcs",
+        "objectname": "bankFacility",
+        "objectid": "9878"
+    },
+    "BankProductManagment_bankProduct": {
+        "servicename": "BankProductManagment",
+        "serviceid": "177edd06-e0c6-4824-bfa7-70338f431389",
+        "type": "objectsvcs",
+        "objectname": "bankProduct",
+        "objectid": "9879"
+    },
+    "BankProductManagment_product": {
+        "servicename": "BankProductManagment",
+        "serviceid": "177edd06-e0c6-4824-bfa7-70338f431389",
+        "type": "objectsvcs",
+        "objectname": "product",
+        "objectid": "9880"
+    },
+    "BrowserManagementObjService_Browser": {
+        "servicename": "BrowserManagementObjService",
+        "serviceid": "7eeb4536-a641-47f7-9ee2-f7142da50018",
+        "type": "objectsvcs",
+        "objectname": "Browser",
+        "objectid": "9872"
+    },
+    "BusinessBankingObjService_bbcustomerservicelimit": {
+        "servicename": "BusinessBankingObjService",
+        "serviceid": "b9ccea17-f846-4ef1-b9b8-1f9fd84cbdab",
+        "type": "objectsvcs",
+        "objectname": "bbcustomerservicelimit",
+        "objectid": "9766"
+    },
+    "BusinessBankingObjService_businesstype": {
+        "servicename": "BusinessBankingObjService",
+        "serviceid": "b9ccea17-f846-4ef1-b9b8-1f9fd84cbdab",
+        "type": "objectsvcs",
+        "objectname": "businesstype",
+        "objectid": "9767"
+    },
+    "BusinessBankingObjService_company": {
+        "servicename": "BusinessBankingObjService",
+        "serviceid": "b9ccea17-f846-4ef1-b9b8-1f9fd84cbdab",
+        "type": "objectsvcs",
+        "objectname": "company",
+        "objectid": "9768"
+    },
+    "BusinessBankingObjService_customer": {
+        "servicename": "BusinessBankingObjService",
+        "serviceid": "b9ccea17-f846-4ef1-b9b8-1f9fd84cbdab",
+        "type": "objectsvcs",
+        "objectname": "customer",
+        "objectid": "9769"
+    },
+    "BusinessBankingObjService_servicedefinition": {
+        "servicename": "BusinessBankingObjService",
+        "serviceid": "b9ccea17-f846-4ef1-b9b8-1f9fd84cbdab",
+        "type": "objectsvcs",
+        "objectname": "servicedefinition",
+        "objectid": "9770"
+    },
+    "BusinessConfigObjService_AddressValidation": {
+        "servicename": "BusinessConfigObjService",
+        "serviceid": "5d081603-a059-4d3d-896d-f396d3d2f2ff",
+        "type": "objectsvcs",
+        "objectname": "AddressValidation",
+        "objectid": "9733"
+    },
+    "BusinessConfigObjService_EligibilityCriteria": {
+        "servicename": "BusinessConfigObjService",
+        "serviceid": "5d081603-a059-4d3d-896d-f396d3d2f2ff",
+        "type": "objectsvcs",
+        "objectname": "EligibilityCriteria",
+        "objectid": "9734"
+    },
+    "BusinessConfigObjService_OnboardingTermsAndConditions": {
+        "servicename": "BusinessConfigObjService",
+        "serviceid": "5d081603-a059-4d3d-896d-f396d3d2f2ff",
+        "type": "objectsvcs",
+        "objectname": "OnboardingTermsAndConditions",
+        "objectid": "9735"
+    },
+    "BusinessConfigObjService_businessconfiguration": {
+        "servicename": "BusinessConfigObjService",
+        "serviceid": "5d081603-a059-4d3d-896d-f396d3d2f2ff",
+        "type": "objectsvcs",
+        "objectname": "businessconfiguration",
+        "objectid": "9736"
+    },
+    "CampaignManagementObjService_attribute": {
+        "servicename": "CampaignManagementObjService",
+        "serviceid": "c85bd931-899b-4d90-88b4-b2c13d43aef4",
+        "type": "objectsvcs",
+        "objectname": "attribute",
+        "objectid": "9666"
+    },
+    "CampaignManagementObjService_campaign": {
+        "servicename": "CampaignManagementObjService",
+        "serviceid": "c85bd931-899b-4d90-88b4-b2c13d43aef4",
+        "type": "objectsvcs",
+        "objectname": "campaign",
+        "objectid": "9667"
+    },
+    "CampaignManagementObjService_campaignmanagement": {
+        "servicename": "CampaignManagementObjService",
+        "serviceid": "c85bd931-899b-4d90-88b4-b2c13d43aef4",
+        "type": "objectsvcs",
+        "objectname": "campaignmanagement",
+        "objectid": "9668"
+    },
+    "CampaignManagementObjService_channelandscreen": {
+        "servicename": "CampaignManagementObjService",
+        "serviceid": "c85bd931-899b-4d90-88b4-b2c13d43aef4",
+        "type": "objectsvcs",
+        "objectname": "channelandscreen",
+        "objectid": "9669"
+    },
+    "CampaignManagementObjService_defaultcampaign": {
+        "servicename": "CampaignManagementObjService",
+        "serviceid": "c85bd931-899b-4d90-88b4-b2c13d43aef4",
+        "type": "objectsvcs",
+        "objectname": "defaultcampaign",
+        "objectid": "9670"
+    },
+    "CampaignManagementObjService_group": {
+        "servicename": "CampaignManagementObjService",
+        "serviceid": "c85bd931-899b-4d90-88b4-b2c13d43aef4",
+        "type": "objectsvcs",
+        "objectname": "group",
+        "objectid": "9671"
+    },
+    "CampaignManagementObjService_profile": {
+        "servicename": "CampaignManagementObjService",
+        "serviceid": "c85bd931-899b-4d90-88b4-b2c13d43aef4",
+        "type": "objectsvcs",
+        "objectname": "profile",
+        "objectid": "9672"
+    },
+    "CardManagementObjService_card": {
+        "servicename": "CardManagementObjService",
+        "serviceid": "a2f16b4f-e640-448d-a8c6-23c13cad3a51",
+        "type": "objectsvcs",
+        "objectname": "card",
+        "objectid": "9655"
+    },
+    "CardManagementObjService_cardSummary": {
+        "servicename": "CardManagementObjService",
+        "serviceid": "a2f16b4f-e640-448d-a8c6-23c13cad3a51",
+        "type": "objectsvcs",
+        "objectname": "cardSummary",
+        "objectid": "9656"
+    },
+    "ConfigurationObjService_Config": {
+        "servicename": "ConfigurationObjService",
+        "serviceid": "27724efb-d341-4c7f-b98e-9ef99b60c35e",
+        "type": "objectsvcs",
+        "objectname": "Config",
+        "objectid": "9634"
+    },
+    "ConfigurationObjService_Configuration": {
+        "servicename": "ConfigurationObjService",
+        "serviceid": "27724efb-d341-4c7f-b98e-9ef99b60c35e",
+        "type": "objectsvcs",
+        "objectname": "Configuration",
+        "objectid": "9635"
+    },
+    "ContractManagementObjService_Contract": {
+        "servicename": "ContractManagementObjService",
+        "serviceid": "fda48953-7539-4028-a968-95e722eae9ea",
+        "type": "objectsvcs",
+        "objectname": "Contract",
+        "objectid": "9606"
+    },
+    "CustomerGroupsAndEntitlObjSvc_Group": {
+        "servicename": "CustomerGroupsAndEntitlObjSvc",
+        "serviceid": "26d013a3-be41-44eb-bd19-21de31651138",
+        "type": "objectsvcs",
+        "objectname": "Group",
+        "objectid": "9571"
+    },
+    "CustomerGroupsAndEntitlObjSvc_GroupCustomers": {
+        "servicename": "CustomerGroupsAndEntitlObjSvc",
+        "serviceid": "26d013a3-be41-44eb-bd19-21de31651138",
+        "type": "objectsvcs",
+        "objectname": "GroupCustomers",
+        "objectid": "9572"
+    },
+    "CustomerGroupsAndEntitlObjSvc_GroupEntitlements": {
+        "servicename": "CustomerGroupsAndEntitlObjSvc",
+        "serviceid": "26d013a3-be41-44eb-bd19-21de31651138",
+        "type": "objectsvcs",
+        "objectname": "GroupEntitlements",
+        "objectid": "9573"
+    },
+    "CustomerGroupsAndEntitlObjSvc_GroupFeatures": {
+        "servicename": "CustomerGroupsAndEntitlObjSvc",
+        "serviceid": "26d013a3-be41-44eb-bd19-21de31651138",
+        "type": "objectsvcs",
+        "objectname": "GroupFeatures",
+        "objectid": "9574"
+    },
+    "CustomerGroupsAndEntitlObjSvc_GroupRecords": {
+        "servicename": "CustomerGroupsAndEntitlObjSvc",
+        "serviceid": "26d013a3-be41-44eb-bd19-21de31651138",
+        "type": "objectsvcs",
+        "objectname": "GroupRecords",
+        "objectid": "9575"
+    },
+    "CustomerGroupsAndEntitlObjSvc_Groups": {
+        "servicename": "CustomerGroupsAndEntitlObjSvc",
+        "serviceid": "26d013a3-be41-44eb-bd19-21de31651138",
+        "type": "objectsvcs",
+        "objectname": "Groups",
+        "objectid": "9576"
+    },
+    "CustomerManagementObjService_Applicant": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "Applicant",
+        "objectid": "9263"
+    },
+    "CustomerManagementObjService_Customer": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "Customer",
+        "objectid": "9264"
+    },
+    "CustomerManagementObjService_CustomerActions": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "CustomerActions",
+        "objectid": "9265"
+    },
+    "CustomerManagementObjService_CustomerActivity": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "CustomerActivity",
+        "objectid": "9266"
+    },
+    "CustomerManagementObjService_CustomerAndCustomerGroup": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "CustomerAndCustomerGroup",
+        "objectid": "9267"
+    },
+    "CustomerManagementObjService_CustomerContact": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "CustomerContact",
+        "objectid": "9268"
+    },
+    "CustomerManagementObjService_CustomerDevice": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "CustomerDevice",
+        "objectid": "9269"
+    },
+    "CustomerManagementObjService_CustomerEntitlement": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "CustomerEntitlement",
+        "objectid": "9270"
+    },
+    "CustomerManagementObjService_CustomerGroup": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "CustomerGroup",
+        "objectid": "9271"
+    },
+    "CustomerManagementObjService_CustomerNotification": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "CustomerNotification",
+        "objectid": "9272"
+    },
+    "CustomerManagementObjService_CustomerProduct": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "CustomerProduct",
+        "objectid": "9273"
+    },
+    "CustomerManagementObjService_CustomerRequest": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "CustomerRequest",
+        "objectid": "9274"
+    },
+    "CustomerManagementObjService_CustomerSecurityQuestions": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "CustomerSecurityQuestions",
+        "objectid": "9275"
+    },
+    "CustomerManagementObjService_DueDiligence": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "DueDiligence",
+        "objectid": "9276"
+    },
+    "CustomerManagementObjService_IdType": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "IdType",
+        "objectid": "9277"
+    },
+    "CustomerManagementObjService_InfinityUser": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "InfinityUser",
+        "objectid": "9278"
+    },
+    "CustomerManagementObjService_Note": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "Note",
+        "objectid": "9279"
+    },
+    "CustomerManagementObjService_ProductTransaction": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "ProductTransaction",
+        "objectid": "9280"
+    },
+    "CustomerManagementObjService_alerthistory": {
+        "servicename": "CustomerManagementObjService",
+        "serviceid": "3948b6c5-ae7e-47e9-b464-63607799f3cc",
+        "type": "objectsvcs",
+        "objectname": "alerthistory",
+        "objectid": "9281"
+    },
+    "CustomReports_DataSources": {
+        "servicename": "CustomReports",
+        "serviceid": "76f3ae0d-a5de-4c9f-870c-f9a99669ffae",
+        "type": "objectsvcs",
+        "objectname": "DataSources",
+        "objectid": "9236"
+    },
+    "CustomReports_FabricReports": {
+        "servicename": "CustomReports",
+        "serviceid": "76f3ae0d-a5de-4c9f-870c-f9a99669ffae",
+        "type": "objectsvcs",
+        "objectname": "FabricReports",
+        "objectid": "9237"
+    },
+    "CustomReports_ReportFilters": {
+        "servicename": "CustomReports",
+        "serviceid": "76f3ae0d-a5de-4c9f-870c-f9a99669ffae",
+        "type": "objectsvcs",
+        "objectname": "ReportFilters",
+        "objectid": "9238"
+    },
+    "CustomReports_Reports": {
+        "servicename": "CustomReports",
+        "serviceid": "76f3ae0d-a5de-4c9f-870c-f9a99669ffae",
+        "type": "objectsvcs",
+        "objectname": "Reports",
+        "objectid": "9239"
+    },
+    "CustomReports_ReportsList": {
+        "servicename": "CustomReports",
+        "serviceid": "76f3ae0d-a5de-4c9f-870c-f9a99669ffae",
+        "type": "objectsvcs",
+        "objectname": "ReportsList",
+        "objectid": "9240"
+    },
+    "CustServiceObjService_ServiceAndServiceComm": {
+        "servicename": "CustServiceObjService",
+        "serviceid": "32cf2082-5603-43e3-b156-99bbec221fcd",
+        "type": "objectsvcs",
+        "objectname": "ServiceAndServiceComm",
+        "objectid": "9213"
+    },
+    "CustServiceObjService_messageTemplate": {
+        "servicename": "CustServiceObjService",
+        "serviceid": "32cf2082-5603-43e3-b156-99bbec221fcd",
+        "type": "objectsvcs",
+        "objectname": "messageTemplate",
+        "objectid": "9214"
+    },
+    "DashboardObjService_Analytics": {
+        "servicename": "DashboardObjService",
+        "serviceid": "8cdcf214-7c1f-48ef-b8f5-5febb67f500e",
+        "type": "objectsvcs",
+        "objectname": "Analytics",
+        "objectid": "9199"
+    },
+    "DashboardObjService_CustomerRequestSummary": {
+        "servicename": "DashboardObjService",
+        "serviceid": "8cdcf214-7c1f-48ef-b8f5-5febb67f500e",
+        "type": "objectsvcs",
+        "objectname": "CustomerRequestSummary",
+        "objectid": "9200"
+    },
+    "DashboardObjService_dashboardalerts": {
+        "servicename": "DashboardObjService",
+        "serviceid": "8cdcf214-7c1f-48ef-b8f5-5febb67f500e",
+        "type": "objectsvcs",
+        "objectname": "dashboardalerts",
+        "objectid": "9201"
+    },
+    "dbxdbObjects_archivedmedia": {
+        "servicename": "dbxdbObjects",
+        "serviceid": "d7cf5b08-0769-4b19-9677-fa89acdef0a6",
+        "type": "objectsvcs",
+        "objectname": "archivedmedia",
+        "objectid": "9161"
+    },
+    "dbxdbObjects_media": {
+        "servicename": "dbxdbObjects",
+        "serviceid": "d7cf5b08-0769-4b19-9677-fa89acdef0a6",
+        "type": "objectsvcs",
+        "objectname": "media",
+        "objectid": "9162"
+    },
+    "DecisionManagement_decision": {
+        "servicename": "DecisionManagement",
+        "serviceid": "9ac68b1c-3591-408a-bd4d-d227e6b55207",
+        "type": "objectsvcs",
+        "objectname": "decision",
+        "objectid": "9140"
+    },
+    "DMSUserCreationObjService_DMSUser": {
+        "servicename": "DMSUserCreationObjService",
+        "serviceid": "79862663-7ef8-4b25-8b66-bd238e931d12",
+        "type": "objectsvcs",
+        "objectname": "DMSUser",
+        "objectid": "9134"
+    },
+    "EmailObjService_email": {
+        "servicename": "EmailObjService",
+        "serviceid": "87dbb849-0e35-4e89-9543-2f18af7fec52",
+        "type": "objectsvcs",
+        "objectname": "email",
+        "objectid": "9128"
+    },
+    "FeatureObjService_feature": {
+        "servicename": "FeatureObjService",
+        "serviceid": "3aaa2ea9-f269-4df5-b2e3-2969f1834668",
+        "type": "objectsvcs",
+        "objectname": "feature",
+        "objectid": "9098"
+    },
+    "IdentityManagementObjService_identitymanagement": {
+        "servicename": "IdentityManagementObjService",
+        "serviceid": "247e8282-fbb2-41be-9013-deb67de79641",
+        "type": "objectsvcs",
+        "objectname": "identitymanagement",
+        "objectid": "9053"
+    },
+    "InternalusersObjService_Branch": {
+        "servicename": "InternalusersObjService",
+        "serviceid": "4ab2a2c3-ef15-4486-a7d2-86337c96bcbc",
+        "type": "objectsvcs",
+        "objectname": "Branch",
+        "objectid": "9010"
+    },
+    "InternalusersObjService_LOB": {
+        "servicename": "InternalusersObjService",
+        "serviceid": "4ab2a2c3-ef15-4486-a7d2-86337c96bcbc",
+        "type": "objectsvcs",
+        "objectname": "LOB",
+        "objectid": "9011"
+    },
+    "InternalusersObjService_Users": {
+        "servicename": "InternalusersObjService",
+        "serviceid": "4ab2a2c3-ef15-4486-a7d2-86337c96bcbc",
+        "type": "objectsvcs",
+        "objectname": "Users",
+        "objectid": "9012"
+    },
+    "InternalusersObjService_city": {
+        "servicename": "InternalusersObjService",
+        "serviceid": "4ab2a2c3-ef15-4486-a7d2-86337c96bcbc",
+        "type": "objectsvcs",
+        "objectname": "city",
+        "objectid": "9013"
+    },
+    "InternalusersObjService_country": {
+        "servicename": "InternalusersObjService",
+        "serviceid": "4ab2a2c3-ef15-4486-a7d2-86337c96bcbc",
+        "type": "objectsvcs",
+        "objectname": "country",
+        "objectid": "9014"
+    },
+    "InternalusersObjService_createUser": {
+        "servicename": "InternalusersObjService",
+        "serviceid": "4ab2a2c3-ef15-4486-a7d2-86337c96bcbc",
+        "type": "objectsvcs",
+        "objectname": "createUser",
+        "objectid": "9015"
+    },
+    "InternalusersObjService_internalUserProfile_view": {
+        "servicename": "InternalusersObjService",
+        "serviceid": "4ab2a2c3-ef15-4486-a7d2-86337c96bcbc",
+        "type": "objectsvcs",
+        "objectname": "internalUserProfile_view",
+        "objectid": "9016"
+    },
+    "InternalusersObjService_internalUsers_view": {
+        "servicename": "InternalusersObjService",
+        "serviceid": "4ab2a2c3-ef15-4486-a7d2-86337c96bcbc",
+        "type": "objectsvcs",
+        "objectname": "internalUsers_view",
+        "objectid": "9017"
+    },
+    "InternalusersObjService_region": {
+        "servicename": "InternalusersObjService",
+        "serviceid": "4ab2a2c3-ef15-4486-a7d2-86337c96bcbc",
+        "type": "objectsvcs",
+        "objectname": "region",
+        "objectid": "9018"
+    },
+    "KeyCloakObjService_KeycloakUsers": {
+        "servicename": "KeyCloakObjService",
+        "serviceid": "c0e4b180-17d6-4a1d-a2a1-86bce3b89883",
+        "type": "objectsvcs",
+        "objectname": "KeycloakUsers",
+        "objectid": "9002"
+    },
+    "LeadAndApplicant_lead": {
+        "servicename": "LeadAndApplicant",
+        "serviceid": "08eccf52-03ec-41a4-85ac-597255d3abf3",
+        "type": "objectsvcs",
+        "objectname": "lead",
+        "objectid": "8970"
+    },
+    "LeadAndApplicant_leadconfiguration": {
+        "servicename": "LeadAndApplicant",
+        "serviceid": "08eccf52-03ec-41a4-85ac-597255d3abf3",
+        "type": "objectsvcs",
+        "objectname": "leadconfiguration",
+        "objectid": "8971"
+    },
+    "LeadAndApplicant_leadnote": {
+        "servicename": "LeadAndApplicant",
+        "serviceid": "08eccf52-03ec-41a4-85ac-597255d3abf3",
+        "type": "objectsvcs",
+        "objectname": "leadnote",
+        "objectid": "8972"
+    },
+    "LeadAndApplicant_leadproduct": {
+        "servicename": "LeadAndApplicant",
+        "serviceid": "08eccf52-03ec-41a4-85ac-597255d3abf3",
+        "type": "objectsvcs",
+        "objectname": "leadproduct",
+        "objectid": "8973"
+    },
+    "LeadAndApplicant_leadsummary": {
+        "servicename": "LeadAndApplicant",
+        "serviceid": "08eccf52-03ec-41a4-85ac-597255d3abf3",
+        "type": "objectsvcs",
+        "objectname": "leadsummary",
+        "objectid": "8974"
+    },
+    "LocationObjService_LocationObject": {
+        "servicename": "LocationObjService",
+        "serviceid": "3826e6e4-97ba-49bf-90f8-8eac5b42fc30",
+        "type": "objectsvcs",
+        "objectname": "LocationObject",
+        "objectid": "8922"
+    },
+    "LocationObjService_LocationServicesObject": {
+        "servicename": "LocationObjService",
+        "serviceid": "3826e6e4-97ba-49bf-90f8-8eac5b42fc30",
+        "type": "objectsvcs",
+        "objectname": "LocationServicesObject",
+        "objectid": "8923"
+    },
+    "LocationObjService_LocationsUsingCSV": {
+        "servicename": "LocationObjService",
+        "serviceid": "3826e6e4-97ba-49bf-90f8-8eac5b42fc30",
+        "type": "objectsvcs",
+        "objectname": "LocationsUsingCSV",
+        "objectid": "8924"
+    },
+    "LocationObjService_currency": {
+        "servicename": "LocationObjService",
+        "serviceid": "3826e6e4-97ba-49bf-90f8-8eac5b42fc30",
+        "type": "objectsvcs",
+        "objectname": "currency",
+        "objectid": "8925"
+    },
+    "LocationObjService_facility": {
+        "servicename": "LocationObjService",
+        "serviceid": "3826e6e4-97ba-49bf-90f8-8eac5b42fc30",
+        "type": "objectsvcs",
+        "objectname": "facility",
+        "objectid": "8926"
+    },
+    "ManageLimitsAndFees_overallPaymentLimits": {
+        "servicename": "ManageLimitsAndFees",
+        "serviceid": "4e594eba-cb24-4560-afad-73fbff699c84",
+        "type": "objectsvcs",
+        "objectname": "overallPaymentLimits",
+        "objectid": "8860"
+    },
+    "ManageLimitsAndFees_period": {
+        "servicename": "ManageLimitsAndFees",
+        "serviceid": "4e594eba-cb24-4560-afad-73fbff699c84",
+        "type": "objectsvcs",
+        "objectname": "period",
+        "objectid": "8861"
+    },
+    "ManageLimitsAndFees_periodLimitEndUser": {
+        "servicename": "ManageLimitsAndFees",
+        "serviceid": "4e594eba-cb24-4560-afad-73fbff699c84",
+        "type": "objectsvcs",
+        "objectname": "periodLimitEndUser",
+        "objectid": "8862"
+    },
+    "ManageLimitsAndFees_periodLimitService": {
+        "servicename": "ManageLimitsAndFees",
+        "serviceid": "4e594eba-cb24-4560-afad-73fbff699c84",
+        "type": "objectsvcs",
+        "objectname": "periodLimitService",
+        "objectid": "8863"
+    },
+    "ManageLimitsAndFees_periodLimitUserGroup": {
+        "servicename": "ManageLimitsAndFees",
+        "serviceid": "4e594eba-cb24-4560-afad-73fbff699c84",
+        "type": "objectsvcs",
+        "objectname": "periodLimitUserGroup",
+        "objectid": "8864"
+    },
+    "ManageLimitsAndFees_transactionFeesEndUser": {
+        "servicename": "ManageLimitsAndFees",
+        "serviceid": "4e594eba-cb24-4560-afad-73fbff699c84",
+        "type": "objectsvcs",
+        "objectname": "transactionFeesEndUser",
+        "objectid": "8865"
+    },
+    "ManageLimitsAndFees_transferFeeGroup": {
+        "servicename": "ManageLimitsAndFees",
+        "serviceid": "4e594eba-cb24-4560-afad-73fbff699c84",
+        "type": "objectsvcs",
+        "objectname": "transferFeeGroup",
+        "objectid": "8866"
+    },
+    "ManageLimitsAndFees_transferFeeService": {
+        "servicename": "ManageLimitsAndFees",
+        "serviceid": "4e594eba-cb24-4560-afad-73fbff699c84",
+        "type": "objectsvcs",
+        "objectname": "transferFeeService",
+        "objectid": "8867"
+    },
+    "ManageLimitsAndFees_validateTransactionLimit": {
+        "servicename": "ManageLimitsAndFees",
+        "serviceid": "4e594eba-cb24-4560-afad-73fbff699c84",
+        "type": "objectsvcs",
+        "objectname": "validateTransactionLimit",
+        "objectid": "8868"
+    },
+    "MasterDataObjService_accounttype": {
+        "servicename": "MasterDataObjService",
+        "serviceid": "ec120b69-988a-472f-a4fc-13da37404776",
+        "type": "objectsvcs",
+        "objectname": "accounttype",
+        "objectid": "8836"
+    },
+    "MasterDataObjService_app": {
+        "servicename": "MasterDataObjService",
+        "serviceid": "ec120b69-988a-472f-a4fc-13da37404776",
+        "type": "objectsvcs",
+        "objectname": "app",
+        "objectid": "8837"
+    },
+    "MasterDataObjService_countrycode": {
+        "servicename": "MasterDataObjService",
+        "serviceid": "ec120b69-988a-472f-a4fc-13da37404776",
+        "type": "objectsvcs",
+        "objectname": "countrycode",
+        "objectid": "8838"
+    },
+    "MasterDataObjService_customertype": {
+        "servicename": "MasterDataObjService",
+        "serviceid": "ec120b69-988a-472f-a4fc-13da37404776",
+        "type": "objectsvcs",
+        "objectname": "customertype",
+        "objectid": "8839"
+    },
+    "MasterDataObjService_locale": {
+        "servicename": "MasterDataObjService",
+        "serviceid": "ec120b69-988a-472f-a4fc-13da37404776",
+        "type": "objectsvcs",
+        "objectname": "locale",
+        "objectid": "8840"
+    },
+    "MasterDataObjService_systemconfiguration": {
+        "servicename": "MasterDataObjService",
+        "serviceid": "ec120b69-988a-472f-a4fc-13da37404776",
+        "type": "objectsvcs",
+        "objectname": "systemconfiguration",
+        "objectid": "8841"
+    },
+    "MFAObjService_mfaconfigandscenarios": {
+        "servicename": "MFAObjService",
+        "serviceid": "3b9a5a34-a41a-448e-aa94-1f3ea318a917",
+        "type": "objectsvcs",
+        "objectname": "mfaconfigandscenarios",
+        "objectid": "8802"
+    },
+    "ReportsObjService_MessagesReport": {
+        "servicename": "ReportsObjService",
+        "serviceid": "f08d5c95-bc12-4a9d-8970-7264052da82e",
+        "type": "objectsvcs",
+        "objectname": "MessagesReport",
+        "objectid": "8774"
+    },
+    "ReportsObjService_ReportsInfo": {
+        "servicename": "ReportsObjService",
+        "serviceid": "f08d5c95-bc12-4a9d-8970-7264052da82e",
+        "type": "objectsvcs",
+        "objectname": "ReportsInfo",
+        "objectid": "8775"
+    },
+    "ReportsObjService_TransactionReport": {
+        "servicename": "ReportsObjService",
+        "serviceid": "f08d5c95-bc12-4a9d-8970-7264052da82e",
+        "type": "objectsvcs",
+        "objectname": "TransactionReport",
+        "objectid": "8776"
+    },
+    "ReportsObjService_report": {
+        "servicename": "ReportsObjService",
+        "serviceid": "f08d5c95-bc12-4a9d-8970-7264052da82e",
+        "type": "objectsvcs",
+        "objectname": "report",
+        "objectid": "8777"
+    },
+    "RolesAndPermissionsObjService_DirectAndIndirectPermissionUsers": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "DirectAndIndirectPermissionUsers",
+        "objectid": "8706"
+    },
+    "RolesAndPermissionsObjService_PermissionObject": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "PermissionObject",
+        "objectid": "8707"
+    },
+    "RolesAndPermissionsObjService_managePermissions": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "managePermissions",
+        "objectid": "8708"
+    },
+    "RolesAndPermissionsObjService_permissions_view": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "permissions_view",
+        "objectid": "8709"
+    },
+    "RolesAndPermissionsObjService_role": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "role",
+        "objectid": "8710"
+    },
+    "RolesAndPermissionsObjService_role_view": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "role_view",
+        "objectid": "8711"
+    },
+    "RolesAndPermissionsObjService_rolepermission_view": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "rolepermission_view",
+        "objectid": "8712"
+    },
+    "RolesAndPermissionsObjService_roleuser_view": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "roleuser_view",
+        "objectid": "8713"
+    },
+    "RolesAndPermissionsObjService_status": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "status",
+        "objectid": "8714"
+    },
+    "RolesAndPermissionsObjService_systemuser_view": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "systemuser_view",
+        "objectid": "8715"
+    },
+    "RolesAndPermissionsObjService_userRole": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "userRole",
+        "objectid": "8716"
+    },
+    "RolesAndPermissionsObjService_userdirectpermission_view": {
+        "servicename": "RolesAndPermissionsObjService",
+        "serviceid": "f6453c7f-e3d5-48a8-b57e-b17be99fc0d0",
+        "type": "objectsvcs",
+        "objectname": "userdirectpermission_view",
+        "objectid": "8717"
+    },
+    "SecurityOpsObjService_manageSecurityImages": {
+        "servicename": "SecurityOpsObjService",
+        "serviceid": "5ef013ee-9355-42bb-9d68-89d7a65cfa74",
+        "type": "objectsvcs",
+        "objectname": "manageSecurityImages",
+        "objectid": "8684"
+    },
+    "SecurityOpsObjService_manageSecurityQuestions": {
+        "servicename": "SecurityOpsObjService",
+        "serviceid": "5ef013ee-9355-42bb-9d68-89d7a65cfa74",
+        "type": "objectsvcs",
+        "objectname": "manageSecurityQuestions",
+        "objectid": "8685"
+    },
+    "ServerManagementObjService_address": {
+        "servicename": "ServerManagementObjService",
+        "serviceid": "2f9cf864-b62e-47f4-ba89-fd8b8eca5790",
+        "type": "objectsvcs",
+        "objectname": "address",
+        "objectid": "8668"
+    },
+    "ServerManagementObjService_maplocation": {
+        "servicename": "ServerManagementObjService",
+        "serviceid": "2f9cf864-b62e-47f4-ba89-fd8b8eca5790",
+        "type": "objectsvcs",
+        "objectname": "maplocation",
+        "objectid": "8669"
+    },
+    "ServerManagementObjService_server": {
+        "servicename": "ServerManagementObjService",
+        "serviceid": "2f9cf864-b62e-47f4-ba89-fd8b8eca5790",
+        "type": "objectsvcs",
+        "objectname": "server",
+        "objectid": "8670"
+    },
+    "SignatoryGroupManageObjService_ApprovalMode": {
+        "servicename": "SignatoryGroupManageObjService",
+        "serviceid": "d16b3412-53a6-47ad-9003-487b852108d3",
+        "type": "objectsvcs",
+        "objectname": "ApprovalMode",
+        "objectid": "8639"
+    },
+    "SignatoryGroupManageObjService_SignatoryGroup": {
+        "servicename": "SignatoryGroupManageObjService",
+        "serviceid": "d16b3412-53a6-47ad-9003-487b852108d3",
+        "type": "objectsvcs",
+        "objectname": "SignatoryGroup",
+        "objectid": "8640"
+    },
+    "StaticContentObjService_frequentlyAskedQuestions": {
+        "servicename": "StaticContentObjService",
+        "serviceid": "4370ee2e-d604-485e-94fd-4a88c9c9cc51",
+        "type": "objectsvcs",
+        "objectname": "frequentlyAskedQuestions",
+        "objectid": "8566"
+    },
+    "StaticContentObjService_outageMessage": {
+        "servicename": "StaticContentObjService",
+        "serviceid": "4370ee2e-d604-485e-94fd-4a88c9c9cc51",
+        "type": "objectsvcs",
+        "objectname": "outageMessage",
+        "objectid": "8567"
+    },
+    "StaticContentObjService_privacyPolicy": {
+        "servicename": "StaticContentObjService",
+        "serviceid": "4370ee2e-d604-485e-94fd-4a88c9c9cc51",
+        "type": "objectsvcs",
+        "objectname": "privacyPolicy",
+        "objectid": "8568"
+    },
+    "StaticContentObjService_service": {
+        "servicename": "StaticContentObjService",
+        "serviceid": "4370ee2e-d604-485e-94fd-4a88c9c9cc51",
+        "type": "objectsvcs",
+        "objectname": "service",
+        "objectid": "8569"
+    },
+    "StaticContentObjService_termsAndConditions": {
+        "servicename": "StaticContentObjService",
+        "serviceid": "4370ee2e-d604-485e-94fd-4a88c9c9cc51",
+        "type": "objectsvcs",
+        "objectname": "termsAndConditions",
+        "objectid": "8570"
+    },
+    "TermsAndConditionsObjService_termsandconditions": {
+        "servicename": "TermsAndConditionsObjService",
+        "serviceid": "baa42bf7-72c2-4605-adcc-9ed899f5b040",
+        "type": "objectsvcs",
+        "objectname": "termsandconditions",
+        "objectid": "8552"
+    }
+}
